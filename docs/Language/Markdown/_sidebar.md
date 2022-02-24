@@ -1,4 +1,4 @@
-* Markdown 
+* Markdown
 
-  * [基础语法](MarkdownBasics)
-  * [进阶](MarkdownBasics)
+  * [基础语法](Language/Markdown/MarkdownBasics)
+  * [进阶](Language/Markdown/MarkdownBasics)
