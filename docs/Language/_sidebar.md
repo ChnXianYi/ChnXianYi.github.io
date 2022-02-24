@@ -1,8 +1,8 @@
 * Language
-
-  * [HTML](HTML/)
-  * [CSS](CSS/)
-  * [JavaScript](JavaScript/)
-  * [Markdown](Markdown/)
-  * [Vue](Vue/)
-  * [C](C/)
+  * [HTML](Language/HTML/)
+  * [CSS](Language/CSS/)
+  * [JavaScript](Language/JavaScript/)
+  * [Markdown](Language/Markdown/)
+  * [Vue](Language/Vue/)
+  * [C](Language/C/)
+  * [Other](Language/Other/)
