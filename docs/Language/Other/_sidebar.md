@@ -1,4 +1,4 @@
-* Other
+* [Other](Language/)
 
   * [axios](Language/Other/axios)
   * [interview](Language/Other/interview)
