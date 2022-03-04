@@ -18,6 +18,14 @@
 |[中间](English/word/various?id=中间-center、middle)|center、middle|
 |[游客](English/word/various?id=游客-tourist、traveler、visitor、passenger)|tourist、traveler、visitor、passenger|
 |[在……上](English/word/various?id=在上-upon、on)|upon、on|
+|[旅馆](English/word/various?id=旅馆-hotel、inn、motel)|maybe、perhaps、possibly、probably|
+|[正确](English/word/various?id=正确-right、correct、true、real、genuine)|right、correct、true、real、genuine|
+|[重要的](English/word/various?id=重要的-important、major、significant)|important、major、significant|
+|[许可](English/word/various?id=许可-licence、permit、certificate)|licence、permit、certificate|
+|[快](English/word/various?id=快-fast、quick、rapid、swift、hasty、prompt、speedy、instant)|fast、quick、rapid、swift、hasty、prompt、speedy、instant|
+|[感觉](English/word/various?id=感觉-feeling、sensation、sense、perception)|feeling、sensation、sense、perception|
+|[小](English/word/various?id=小-little、small、tiny、minute、miniature)|little、small、tiny、minute、miniature|
+|[线](English/word/various?id=线-string、rope、line、cord、thread、wire)|string、rope、line、cord、thread、wire|
 
 ### 疼 - pain、ache、hurt、sore
 
@@ -105,6 +113,8 @@ cross为动词主要表示在物体表面上横穿。如横过马路、过桥、
 Be careful when you cross the street.过马路时要小心。
 
 Cross (Go across )the bridge, and you will see a big buiding.过这座桥你就会看到一栋大楼。
+
+---
 
 across是介词，有“横跨，横穿，穿越”之意。
 
@@ -493,3 +503,545 @@ She relies upon her sister for help.
 * depend on 依赖
 
 在大部分情况下，遇到on 的英文片语，你应该都只用on 就好，而不能改成upon
+
+---
+
+### 可能、或许 - maybe、perhaps、possibly、probably
+
+#### maybe
+
+普通用词，美国英语多用。或许；也许；大概；大约；
+
+Maybe they'll come tomorrow.
+或许他们明天会来。
+
+Maybe you were right after all.
+或许还是你对。
+
+There were 200, maybe 300, refugees on the boat.
+船上约有200或300名难民。
+
+Maybe we should start again.
+或许我们该重新开始。
+
+---
+
+#### perhaps
+
+普通用词，多用于英国，与maybe同义。更正式一点，
+
+We plan to travel to Europe - to Spain or Italy perhaps.
+我们打算去欧洲旅行，也许去西班牙或意大利。
+
+Perhaps the most important question has not been asked.
+或许还没有人提出最重要的问题。
+
+There were perhaps 500 people at the meeting.
+大概有500人出席了会议。
+
+---
+
+#### possibly
+
+指客观上潜存着会发生某种变化的可能。可能会
+
+He may possibly decide not to come, in which case there's no problem.
+他可能会决定不来，这样就没问题了。
+
+"Will he come?" "Possibly not."
+“他会来吗？”“恐怕不会。”
+
+---
+
+#### probably
+
+一般指根据逻辑推理，估计有发生的可能，把握性较大，语气比possibly强。很可能会
+
+I'll probably be home by midnight.
+我很可能半夜到家。
+
+I'm probably going - it depends on the weather.
+我很可能会去——这要看天气怎么样。
+
+Probably the best thing to do is to call them before you go.
+可能最好还是在你走之前给他们打个电话。
+
+---
+
+### 旅馆 - hotel、inn、motel
+
+#### hotel
+
+大酒店；通常有柜台有各种服务
+
+a four-star hotel
+四星级酒店
+
+We stayed in/at a hotel on the beach.
+我们住在一家滨海酒店。
+
+hotel guests
+宾馆的客人
+
+---
+
+#### inn
+
+小旅馆；开在乡村、路边条件简陋的小旅馆
+
+The inn is picturesquely situated on the banks of the river.
+小客栈坐落在河畔，构成一幅美丽的图画。
+
+the Waterside Inn
+水畔客栈
+
+---
+
+#### motel
+
+motor hotel 混合缩写词。汽车旅馆，指美国开设于公路旁，专供驾驶汽车的旅客往宿和有停车场的旅店。
+
+We put up at a motel.
+我们晚间住在一家汽车旅馆。
+
+Should I go back to the motel and wait for you to telephone?
+我要回汽车旅馆等你电话吗？
+
+---
+
+### 正确 - right、correct、true、real、genuine
+
+#### right、correct
+
+两者含义非常接近，correct偏向符合规则的right更像是主观上更好的
+。correct相较更正式
+
+You were right about her; she isn’t a very nice person.
+
+你对她的看法是正确的，她不是一个很友善的人。
+
+It’s not correct behaviour. 那是不合礼仪的行为。
+
+---
+
+#### true
+
+是否和事实相符。如实的；确实的。
+
+[ + that ] Is it true that Mariana and Mark are getting married?
+玛丽安娜和马克真的要结婚吗？
+
+Her story is only partly true.
+她的描述只有部分是真实的。
+
+The novel is based on a true story.
+这部小说是根据真实的故事写成的。
+
+---
+
+#### real、genuine
+
+通常指实际存在且十分重要的；指物品是真的而非假冒或人造的时，常可与 genuine 换用；
+
+There is a very real threat that he will lose his job.
+他真的是有失去工作的危险。
+
+Is that a toy gun or the real thing?
+那是把玩具枪还是真枪？
+
+genuine leather
+真皮
+
+If it is a genuine Michelangelo drawing, it will sell for millions.
+如果这幅画是米开朗琪罗的真迹，它的售价将会达数百万。
+
+---
+
+### 重要的 - important、major、significant
+
+#### important
+
+普通用词，指有权威、有影响的人或值得注意的、有价值的事物。重要的，是必需的，有很大影响的
+
+I think his career is more important to him than I am.
+我觉得对他而言，我不如他的事业重要。
+
+He was one of the most important writers of that period.
+他是那个时期最具影响力的作家之一。
+
+---
+
+#### major
+
+多用于主要的。大部分的 / 主修课程 / 少校
+
+Sugar is a major cause of tooth decay.
+糖是造成蛀牙的主要原因。
+
+Citrus fruits are a major source of vitamin C.
+柑橘类水果是维生素C的重要来源。
+
+the key of C major
+C大调
+
+What is your major, English or French?
+你的专业是英语还是法语？
+
+Her father was a major in the Scots Guards.
+她父亲曾是苏格兰近卫团的少校。
+
+---
+
+#### significant
+
+指某事物由于特别优秀或特别有意义而显得重要与突出。比较显著，
+
+There has been a significant increase in the number of women students in recent years.
+近年来，女学生的人数有了显著增加。
+
+The talks between the USA and the USSR were very significant for the relationship between the two countries.
+美国同苏联的谈判对两国间的关系非常重要。
+
+She looked at him across the table and gave him a significant smile.
+她隔着桌子望着他，给了他一个意味深长的微笑。
+
+---
+
+#### more
+
+* main 主要的，重要性最大的。只用于物，强调事物的某一部分、分支的重要性
+
+The main thing is not to worry.
+最重要的是不要担心。
+
+The main problem is a lack of resources.
+主要问题是缺少资金。
+
+a gas main
+煤气总管/总线
+
+---
+
+* chief 主要的,首要的，强调在顺序,等级,重要性,价值方面高于其他所有同类事物,用于人时指"地位最高",用于物，意为 "最重要的"。
+
+the chief fire officer/accountant
+消防局局长／首席会计师
+
+a police chief
+警察局局长
+
+The weather was our chief reason for coming here.
+天气是我们来这里的主要原因。
+
+The chief problem we have in the area now is the spread of disease.
+目前我们在这一地区面临的首要问题是疾病的蔓延。
+
+---
+
+### 许可 - licence、permit、certificate
+
+#### licence
+
+正式的执照，权威机构发与的执照，证书。
+
+a driving licence (US driver's license)
+驾驶执照
+
+a dog licence
+养狗牌照
+
+---
+
+#### permit
+
+准许证，主要来自家长、上级、人或者物的主人。动词则为允许；准许
+
+a work/travel/parking permit
+工作／旅行／停车许可证
+
+Do you need a permit to work here?
+你在这里工作需要许可证吗？
+
+The regulations do not permit much flexibility.
+这些规章不允许有太大的灵活性。
+
+The law permits of no other interpretation.
+法律不容许有其他解释。
+
+---
+
+#### certificate
+
+官方发布的证书/教育机构发布的成绩证书，是可以进修，可以晋级的
+
+a birth/marriage/death certificate
+出生／结婚／死亡证明
+
+a doctor's/medical certificate
+医生／医疗证明
+
+She has a Certificate in Drama Education.
+她有戏剧教育资格证书。
+
+---
+
+### 快 - fast、quick、rapid、swift、hasty、prompt、speedy、instant
+
+#### fast
+
+常指人或物`持续`地高速运动，强调运动的方式
+
+fast cars
+速度快的汽车
+
+a fast swimmer
+速度快的游泳者
+
+---
+
+#### quick
+
+特指瞬时动作，强调动作敏捷迅速；也指匆忙的行为，而不暗示速度很快.迅速而短暂
+
+It's a quick journey.
+这次行程很短。
+
+I had a quick coffee and left the house.
+我匆匆喝完咖啡，离开了家。
+
+He has a quick mind.
+他思维敏捷。
+
+Could I have a quick word (= speak to you for a short time)?
+我可以简短地跟您说几句话吗？
+
+---
+
+#### rapid
+
+比fast和quick正式，常指运动本身，侧重速度惊人。所指动作可能是短暂的，也可能是持续的。
+
+The 1990s were a period of rapid change/growth.
+20世纪90年代是一个迅猛突变／发展的时期。
+
+I was startled by a rapid movement to my left.
+我左边什么东西猛地动了一下，吓了我一跳。
+
+His response to the accusation was rapid.
+他对这种指责马上作出了回应。
+
+---
+
+#### swift
+
+正式用词，强调非常迅速，往往含动作轻快敏捷之意。
+
+The police took swift action against the rioters.
+警方对暴动人员迅速采取了行动。
+
+Thank you for your swift reply.
+感谢您的即时回复。
+
+The gazelle is one of the swiftest and most graceful of animals.
+瞪羚是最敏捷、最优雅的动物之一。
+
+---
+
+#### hasty
+
+多指匆忙、草率或仓促的行动，着重缺乏深思熟虑。
+
+He warned against making hasty decisions.
+他警告过不要仓促作出决定。
+
+Now let's not leap to any hasty conclusions.
+现在我们不要仓促得出结论。
+
+We saw the rain and made a hasty retreat into the bar.
+我们看见下雨了，于是就匆忙躲进酒吧里。
+
+I think perhaps we were a little hasty in judging him.
+我认为我们对他的评价可能有点轻率。
+
+---
+
+#### prompt
+
+主要指动作迅速，毫不拖延，含“快得令人愉悦”的意味。
+
+They've written back already - that was a very prompt reply.
+他们已经回信了——答复相当迅速。
+
+They're usually fairly prompt in dealing with enquiries.
+他们回复咨询通常都比较快。
+
+Try to be prompt because we'll be very short of time.
+尽量快点，因为我们时间很紧。
+
+---
+
+#### speedy
+
+指人或物或其运动、活动时，着重极度的快捷，多含匆忙意味。
+
+He's a very speedy worker.
+他干起活儿来很麻利。
+
+We need to take speedy action/make a speedy decision.
+我们需要迅速采取行动／迅速作出决定。
+
+Everyone is hoping for a speedy end to the conflict (= hoping that an end to it will happen quickly).
+每个人都希望冲突可以尽快结束。
+
+We wished her a speedy recovery from her illness (= that she would get better quickly).
+我们祝愿她尽快康复。
+
+---
+
+#### instant
+
+指某事很快发生或急待解决，含刻不容缓之意。
+
+In an instant her mood had changed.
+顷刻间她的情绪就变了。
+
+The startled boy froze for an instant, then fled.
+那个受惊的男孩愣了片刻，然后就逃跑了。
+
+"Stop that noise this instant (= now)!"
+马上把那噪音停下来！
+
+I'll call you the instant (= as soon as) I get home.
+我一到家就给你打电话。
+
+---
+
+### 感觉 - feeling、sensation、sense、perception
+
+#### feeling
+
+最普通用词，既可指身体上的感觉，如冷暖、饥饿、疼痛等，又可指精神上的感觉，如喜、怒、哀、乐、失望等。
+
+I had a tingling feeling in my fingers.
+我手指感到刺痛。
+
+I've got this strange feeling in my stomach.
+我的胃里有这种怪怪的感觉。
+
+My toes were so cold that I'd lost all feeling in them.
+我的脚趾冻得完全失去知觉了。
+
+---
+
+#### sensation
+
+系较严密的科学用词，指听觉、味觉、视觉、嗅觉或触觉；还可指引起激动或轰动的事物。
+
+a burning sensation
+灼烧的感觉
+
+I had no sensation of pain whatsoever.
+我没有任何痛苦的感觉。
+
+The disease causes a loss of sensation in the fingers.
+这种病会使手指失去知觉。
+
+---
+
+#### sense
+
+主要指人或动物身体上的感觉。复数形式指人的知觉。
+
+With her excellent sense of smell, she could tell if you were a smoker from the other side of the room.
+她嗅觉灵敏，在房间的另一端就能知道你是否抽烟。
+
+My cold is so bad I've lost my sense of smell/taste (= I can't smell/taste anything).
+我感冒很严重，闻不到任何气味了／尝不出任何味道了。
+
+#### perception
+
+侧重对外界刺激的反应和对产生感觉的物体的辨别。
+
+Drugs can alter your perception of reality.
+毒品会改变你对现实的感知。
+
+---
+
+### 小 - little、small、tiny、minute、miniature
+
+#### little
+
+指在体积、数量、距离、年龄、身材等方面比正常的小，多带主观感情色彩，含小而可爱或小巧的意味。
+
+the classic little black dress
+经典式样的黑色小连衣裙
+
+She gave a little laugh.
+她笑了一笑。
+
+---
+
+#### small
+
+多指数量、面积、体积、价值、数字或意义等的小或少，指略小于正常的大小。
+
+They're having a relatively small wedding.
+他们的婚礼不准备大办。
+
+That dress is too small for you.
+那件连衣裙你穿太小。
+
+---
+
+#### tiny
+
+强调与同类或其他物体比较，小得超出正常比例，有时带强烈的感情色彩。
+
+Though she was tiny, she had a very loud voice
+她虽然个头小，嗓音却非常洪亮。
+
+Only a tiny minority hold such extreme views.
+只有极少数人持这样极端的观点。
+
+---
+
+#### minute
+
+指小得难看见，有时需用显微镜才看得见。
+
+minute amounts of chemicals in the water
+水中含量极小的化学成分
+
+The kitchen on the boat is minute.
+小船上的厨房小极了。
+
+---
+
+#### miniature
+
+指由正常体积微缩的物体。
+
+miniature roses
+小玫瑰花
+
+a rare breed of miniature horses
+一种罕见的小矮马
+
+It looks like a miniature version of James Bond's car.
+它看上去像一辆小型的詹姆斯∙邦德的汽车。
+
+---
+
+### 线 - string、rope、line、cord、thread、wire
+
+* string : 普通用词，指捆绑小件物品的细绳或细带子。
+
+* rope : 指用于捆绑大物件的粗壮而坚固的绳子，一般用绵、毛、麻、金属或其它材料制成。
+
+* line : 普通用词，含义广泛，指任何一种线，常作引申用。
+
+* cord指比string粗，比rope细，较牢固，通常用于捆扎较小物品的线或绳。用作引申当约束讲
+
+* thread : 普通用词，指用棉、毛、丝或纤维等纹成的很细的线，通常用于缝纫、纺织等。
+
+* wire : 专指用金属制成的线。

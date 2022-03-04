@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-# XYDOC <small>1.0</small>
+# XYDOC <small>1.0.0.4</small>
 
 > 个人学习文档记录
 
