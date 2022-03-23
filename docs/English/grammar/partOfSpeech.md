@@ -34,7 +34,7 @@
 
 the Great `wall`
 
-姓氏名采用复数形式，表该姓氏一家人(the Greens)
+姓氏名采用复数形式，表该姓氏一家人(the `Greens`)
 
 ---
 
@@ -46,7 +46,7 @@ the Great `wall`
 
 #### 可数名词
 
-可数名词是可以用数词进行计数的名词上
+可数名词是可以用数词进行计数的名词
 
 ---
 
@@ -87,7 +87,7 @@ the Great `wall`
 
 * 单复数同形的名词
     * 一些动物名称
-        * sheep、deer、cod、grouse
+        * sheep、deer、cod(鳕鱼)、grouse
     * 国籍名称
         * Chinese、Japanese、vietnamese
 
@@ -148,9 +148,105 @@ the Great `wall`
 
 ### 所有格
 
+1. 名词词尾加`'s` , 表示有生命的名词的所属关系，通常用在姓名，人称，不定代词，集体名词和一些动物的名词之后
+    * children's Day
+    * my sister's book
+    * nobody's fault
+    * the party's decision
+    * the horse's mouth , a bird's nest
+2. 以 s 或 es 结尾的复数名词，只在词尾加 `'`
+    * Teachers' Day
+3. 表示时间、距离、世界、国家、城镇、组织、地理名称、交通工具、重量、价格等名词，词尾加 `'s`
+    * today's newspaper
+    * ten minutes' break(minute为单数时所有格为a minute's)
+    * China's population
+    * a ton's weight
+    * the city's weather
+    * the earth's surface
+    * the sea's depth
+    * the plane's engine
+    * America's West Coast
+    * the world's seven wonders
+4. 名词一般可用介词of短语来表示所有关系。`名词1 + of + 名词2`，可接有生命以及无生命的名词之后
+    * a fine daughter of the party(大家的好女儿)
+    * the name of the song
+    * The title of the book
+    * the leg of the table
+5. `'s`还可以表示某人的家或某店铺
+    * my aunt's (我阿姨家)*人名为家*
+    * the doctor's (诊所)*职业名为店铺*
+6. 两人共有某物时，可以采用 `A and B's`的形式
+    * Lucy and Lily's bedroom (路西和丽丽合住的卧室)
+    * Lucy's and Lily's bedroom**s** (路西的卧室和丽丽的卧室)
+7. 双重所有格：`of+名词所有格/名词性物主代词`
+    * a friend of my father's
+    * a friend of mine*名词性物主代词*
+
+---
+
 ### 主谓一致
 
+主语和谓语需保持数的一致
+
+1. **基本原则：**主语是可数名词单数或不可数名词，谓语动词用单数形式
+    * the **computer** `was` a great invention.
+    * the **water** in the glass `is` very cold.
+2. 集体名词做主语：family、class、team、group、row、police、school
+    * 表示整体概念，谓语用单数形式
+        * Class Three `is` a very good class.
+    * 表示其中的所有成员，谓语用复数形式
+        * Class Three `have` a map of China.
+3. 单复数同形，根据语境判断。Chinese、Japanese、fish、sheep、people等表示单个时谓语用单数，表示许多时，谓语用复数
+    * There `is` **a** sheep in the yard.
+    * There `are` **some** sheep in the yard.
+4. 以 s 结尾且不是名词的复数形式时，谓语用单数
+    * The **news** `is` very exciting.
+5. 以复数形式出现的单词：glasses、shoes、socks、trousers、gloves等名词常用复数形式，谓语用复数
+    * The **Trousers** `are` very cheap and i want to take them.
+6. `a lot of` 跟名词复数时，谓语用复数形式。跟不可数名词时，谓语用单数形式
+    * A lot of **students** `are` playing baseball now.
+    * A lot of **time** `was` wasted on that work.
+7. `and` 连接两个名词做主语时，谓语用复数；连接两个名词构成一个整体事物时，谓语用单数
+    * **The teacher and his son** `are` picking apples now.
+    * **Fish and chips** `is` very famous food.
+8. 就近原则(There be句型；either……or…… 、neither……nor…… 、not nonly …… but …… also 、not ……but ……)与谓语动词最近的单词决定谓语动词的单复数形式
+    * There `is` **a table** and four chairs in the room.
+    * There `are` **four chairs** and a table in the room.
+    * Either you or **he** `is` right.
+    * Neither you nor **i** `am` going there.
+    * There `is` a boy in the classroom.
+    * Not only you but (also) he `is` wrong.
+    * Not you but your father `is` to blame.
+9. 主语中有with的短语时，谓语单复数由with之前的人物决定
+    * **A woman** with a 7-year-old child `was` standing at the side of the road
+10. 当表示一段时间或长度概念的复数名词做主语时，谓语用单数
+    * Two **months** `is` not a short time.
+    * Two **thousand kilogram** `is` quite a lone distance.
+11. 主语中含有half of……/ (three quarters)of……/ all (of) the……等词语时，谓语的单复数由名词确定
+    * Over three quarters of the **information** on the internet `is` in English.
+    * A third of the **students** `were` playing near the lake.
+12. 就远原则(as well as; (together/alone)with; rather than; except; besides; but; including; in addition to; apart from)
+    * **The president of the college**, *together with* the deans , `is` planning a conference for the purpose of laying down certain regulations.
+    * **All the students**, *including* Tom , `are` leaving.
+
+---
+
 ### 单复数意义不同
+
+|单数|复数|
+|:-------:|:-------:|
+|advice 忠告|advices 消息|
+|custom 习惯；风俗|customs 海关；关税|
+|fetter 脚镣|fetters 囚禁；束缚|
+|air 空气|airs 风度；神气|
+|damage 损害|damages 赔偿金|
+|experience 经验|experiences 经历|
+|ash 灰烬|ashes 骨灰|
+|effect 效果|effects 动产；家产|
+|foot 脚|foots 渣滓|
+|beef 牛肉|beeves 食用牛；菜牛|
+|copper 铜|coppers 铜线|
+|force 力|forces 军队|
 
 ## 代词(pronoun)(pron.)
 
