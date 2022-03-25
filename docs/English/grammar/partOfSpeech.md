@@ -252,6 +252,108 @@ the Great `wall`
 
 用来代替名词
 
+### 代词分类
+
+#### 人称代词
+
+1. 住个：句中作的主语(动词之前)，表语(be动词和感官动词之后)
+    * Are `they` from Brazil?*主语*
+    * Where have `they` gone?*主语*
+    * It's he!*表语*
+2. 宾格：用来作及物动词或者介词的宾语
+    * Who teaches `you` English this year?
+    * We often write letters **to** `her`.
+3. 顺序:"第二人称 > 第三人称 > 第一人称"
+    * Both `he and i` are working at that computer company.
+    * Who will go there? —— `You and me`.
+4. it
+    1. 指人/指物;强调句
+    2. 表 "时间、天气、温度、距离"等含义
+        * What's the weather like today? —— `It`'s fine.*天气*
+        * What's the time? —— `It`'s 12:00.*时间*
+    3. 作形式主语/宾语：替代作主语或宾语的不定式、动名词或名词性从句
+        * `It`'s a long way to go.*不定式做主语*
+        * `It` took him three days to clean his house.*不定式做主语*
+        * `It` is very clear that the public want yo know when there men can go into space.*主语从句，it作形式主语*
+        * We found `it` very difficult to learn a foreign language well.*宾语从句，it作形式宾语*
+
+---
+
+||主格|宾格|形容词性物主代词|名词性物主代词|反身代词|
+|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|**第一人称单数**|I|me|my|mine|myself|
+|**第二人称单数**|you|you|your|yours|yourself|
+|**第三人称单数**|he/she/it|him/her/it|his/her/its|his/hers/its|himself/herself/itself|
+|**第一人称复数**|we|us|our|ours|ourselves|
+|**第二人称复数**|you|you|your|yours|yourselves|
+|**第三人称复数**|they|them|their|theirs|themselves|
+
+---
+
+#### 物主代词
+
+说明事物所属关系的代词(你的，我的，他们的)
+
+1. **形容词**性物主代词 ：作名词的修饰语，后加名词
+    * Is that `your umbrella`?
+    * I often go to see `my aunt` on Sundays.
+    * They are `their books`.
+2. **名词**性物主代词
+    * 相当于名词，既代替事物又表明所属关系
+    * 在句子中作主语，宾语或表语
+    * 后面不可以跟名词
+        * This is your cup, but where is `mine`*表语*?
+        * Your classroom is very big, but `ours`*主语* is rather samll.
+3. 双重所有格：of+名词性物主代词
+    * A friend `of mine` came to see me yesterday. 我的一个朋友来看我来了
+    * My friend camae to see me yesterday. 我朋友来看我来了
+
+---
+
+#### 反身代词
+
+表示 "……自己"
+
+1. 作宾语表示反射 (指一个动作回到该动作执行者本身)
+    * Don't play with the knife, you might hutr `yourself`.
+2. 作同位语表示强调 (即用来强调名词或代词)
+    * **The story** `itself` is good. only he didn't tell it well.
+
+---
+
+#### 指示代词
+
+指说明近处或远处，上文或下文，以前或现在的人或事物
+
+|单数|复数|含义|
+|:-------:|:-------:|:-------:|
+|this 这个|these 这些|指较近的人和物|
+|that 那个|those 那些|指较远的人和物|
+|such 这样的人/物||指上文提过的人和物|
+|same 同样的人/物||指和上文提过的相同的人和物|
+|it 这人/这物||指不太清楚是谁或是什么时|
+
+* `That` model plane is made of plastic.
+* Remember never to do `such` things.
+* Do the `same` as the teacher tells you.
+
+---
+
+#### 关系代词
+
+引导定语从句
+
+1. who
+2. whom
+3. which
+4. that
+
+#### 疑问代词
+
+#### 连接代词
+
+#### 不定代词
+
 ## 形容词(adjective)(adj.)
 
 表人或事物的性质或特征
@@ -332,7 +434,7 @@ the Great `wall`
 3. the+国籍名词：之一个国籍的，一个种族的
 4. the+形容词：一类人，看做复数形式，所以谓语动词复数
     * `The Chinese` are great people.
-    * `The wwise` avoid such things.
+    * `The wise` avoid such things.
 5. 单数名词+the可以表示泛指
     * `The president` is too powerful.
     * `Presidents` are too powerful.
@@ -421,6 +523,170 @@ a mile and two == one or two miles
 ## 介词(preposition)(prep.)
 
 表示它后面的名词或代词于其他句子成分的关系
+
+### 介词的分类
+
+1. 按"形式"分
+    1. 单个单词
+    2. 合成介词
+    3. 分词介词
+    4. 短语介词
+2. 按"词义"分
+    1. 地点介词
+    2. 方向介词
+    3. 时间介词
+    4. 方式介词
+    5. 涉及介词
+    6. 目的介词
+    7. 原因介词
+    8. 比较介词
+    9. 伴随介词
+
+---
+
+### 介词的句法作用
+
+1. 定语(能翻译成...的)
+    * a meeting `in the morring`
+    * the road `to success`
+2. 状语
+    * She lives `in Beijing` (地点)
+    * They visit the wall `by bike` (方式)
+    * The barbecue was canceled `because of rain` (原因)
+3. 表语(在B动词/感官动词之后)
+    * The waiter **is** `in a good mood`
+    * **Is** it `in your hand`**?**
+4. 补语(宾语的补充说明)
+    * Tom put some **books** `on the table`.
+    * Dad left his **wallet** `in a taxi`.
+    * He **worked** `as a consultant`.
+5. 作状语(方式)
+    * `As a teacher`,she is responsible for her students.
+
+---
+
+### 常见介词的含义
+
+![alt:'alt'](http://5b0988e595225.cdn.sohucs.com/images/20171005/081e58194c234166912e809e9b5e80c3.jpeg)
+
+### 重要介词的辨析
+
+#### 时间或地点介词 in , on , at
+
+1. 时间
+    * in：表示在一段时间里；在将来时中表示在一段时间后；
+    * on：表示具体的某一天；
+        * He was born `on` the morning of May 10th.
+    * at：表示某个时刻或瞬间；
+        * I usually get up `at` 7:00 in the morning
+2. 地点
+    * in：表示在某个范围之内
+    * on：表示在某个平面上或与一个面相接触
+        * His glasses are right `on` his nose.
+    * at：表示在某个具体的场所或地点
+        * He is at the cinema `at` the moment.
+
+---
+
+#### 时间介词 after 与 in "在……之后"
+
+* "after+(具体时刻/从句)" ： 表示在……时刻之后，常用一般时态
+    * He said that he would be here `after` 6:00
+* "in+(一般时间)"：表示在多久之后；常用来将来时态
+    * My father is coming back from England `in` about a month.
+
+---
+
+#### 时间介词 since 与 for
+
+* since+(具体时刻)：自从……起一直到现在
+    * Uncle Li has worked in this factory `since` 1970.
+* for+(一段时间)：总共有……之久
+    * Uncle Li has worked in this factory `for` over 30 years.
+
+---
+
+#### by , in 与 with "工具，手段"
+
+* by
+    * 乘坐某交通工具
+        * Let's go to the zoo `by` taxi.
+    * 以……方式
+    * 在被动句中可以表示动作的执行者
+* in
+    * 使用某语言/文字
+        * Please write that article `in` English.
+* with
+    * 使用某工具、手段
+        * We see with our eyes and walk `with` our feet.
+
+---
+
+#### through , across 与 over
+
+* through
+    * 穿过……(门洞/人群/树林)
+    * 通过……(方式)
+        * The visitors  went `through` a big gate into another park.
+* across和over
+    * 跨越……(街道/河流)across和over可互换
+        * There is a bridge `across/over` the river.
+    * 翻过…… 只能用over
+        * They climbed `over` the mountain and arrived there ahead of time.
+
+---
+
+#### as 与 like "像"
+
+* as : 作为……；表职业、职务、作用等，**是事实**
+    * Let me speak to you `as` a father. 我以父亲的身份和你讲话
+* like ：像……一样；表外表，**不是事实**
+    * Let me speak to you `like` a father. 让我像一位父亲一样和你讲话
+
+---
+
+#### at the end of , by the end of , to the end , in the end
+
+1. at the end of……：既可表示时间也可表示地点；常用过去时
+    * `At the end of` **the road** *地点* you can find a big white house with brown windows.
+    * They left for Beijing `at the end of` **last week** *时间/过去时态*.
+2. by the end of……：表示时间；常用完成时
+    * `By the end of` last term we **had learned** *完成时* 16 units of Book III.
+3. in the end 与 at last : 表示终于，最后；常用过去时
+    * `In the end` he succeeded in the final exams.
+4. to the end 表示到……的终点为止
+    * We should go on with the work `to the end`.
+
+---
+
+#### for a moment , for the moment , in a moment , at the moment
+
+* for a moment : 一会儿，片刻 = for a while ，常与持续性动词连用
+    * Please wait `for a moment`. 等我一会
+* for the moment : 暂时，目前，常用现在时
+    * Let's leave things as they are `for the moment`.
+* in a moment : 一会儿，立即，马上 = soon; in a few minutes , 用将来时
+    * I'll come back `in a moment`.
+* at the moment : 此刻，眼下 = now 用现在时
+    * I am very busy `at the moment`
+
+---
+
+#### in front of 与 in the front of
+
+* in front of : 在……的前面(外部的前方)
+    * A car was parking `in front of` the hall.
+* in the front of : 在……的前部(在内部的前方)
+    * `In the front of` the hall stood a big desk.
+
+---
+
+#### except 与 besides
+
+* except : 除了 ， 表不包含
+    * Everyone went to the palace Museumn `except` Tom. 除了Tom，大家都去了故宫
+* besides ：除了 ， 表包含
+    * `Besides` Chinese he also studied many other subject. 除了汉语之外，他也学了许多课程  
 
 ## 连词(conjunction)(conj.)
 
