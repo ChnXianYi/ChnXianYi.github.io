@@ -341,18 +341,217 @@ the Great `wall`
 
 #### 关系代词
 
-引导定语从句
+用来**引导定语从句**的代词叫做关系代词
 
-1. who
-2. whom
-3. which
-4. that
+* 关系代词有 `who , which , that , whom` 用于定语从句中；
+* 在定语从句中担任一定的**成分**；起到了**连接作用**；
+* 关系代词 `who/whom` 指人；关系代词 `which` 指物
+    * The student `who` is drawing a picture is in Grade One.
+    * Do you know the man `who` is wearing a red hat.
+    * Have you found the book `which` you lose several days ago?
+* 关系代词 `that` 既可指人也可指物
+    * Can you see the man/dog `that` is running alone the river bank?
+
+---
 
 #### 疑问代词
 
+用来提出问题的代词称为疑问代词
+
+who、whoe、whose、what、which、whoever、whatever、whichever 主要用于特殊疑问句中
+
+* `What` does she want to be when she grows up?
+* `Which` hotel have you booked for your holiday?
+
+疑问代词不分单复数，视它所替代的人或事物决定单复数，但是通常用单数；如果修饰名词，则以名词的单复数为准
+
+* `Who is(are)` in that playhouse?
+* `What` colors `do` they have?
+
+---
+
 #### 连接代词
 
+用来引导宾语从句，主语从句或表语从句的连接词称连接代词
+
+连接代词主要有：what(什么) ,who(谁) ,whom(谁) ,which(哪个) ,whose(谁的)
+
+---
+
 #### 不定代词
+
+代替或修饰不特指的人或事物的代词叫不定代词。在句中作主语宾语表语定语和状语
+
+1. 单数不定代词
+    * some , any , no , none , each , every , one , either , neither , so , the , other , another
+2. 不可数不定代词
+    * much , little , a little , all
+3. 复数不定代词
+    * many , few , a few , ones , both , others , the others
+4. 复合不定代词
+    * someting(某事) , someone(某人) , somebody(某人)
+    * anything(任何事) , anyone(任何人) , anybody(任何人)
+    * nothing(没事) , nobody(没有人) , no one(没有人)
+    * everything(一切) , everyone(每个人) , everybody(每个人)
+
+---
+
+##### 易混不定代词
+
+1. **some 和 any**
+    1. some
+        * 肯定句中，表'几个''一些''某个'
+            * I have `some` work to do today.*一些*
+            * They will go there `some` day.*某个*
+        * 疑问句中，表建议，请求希望得到肯定回答
+            * Would you like `some` coffee with sugar?*建议*
+        * 可修可数或不可数名词
+    2. any
+        * 疑问句或否定句中，表 '任何一些' '任何一个'
+            * They didn't have `any` friends here.*任何一个*
+            * Have you got `any` questions to ask?*任何一个*
+        * 肯定句时，意思是 '任何的'
+            * Come here with `any` friend.*任何的*
+        * 可修可数或不可数名词
+
+---
+
+2. **no 和 none**
+    1. no
+        * 作定语
+        * 表'没有'
+        * 修可数名词(单数或复数)或不可数名词
+            * There is `no` time left.Please hurry up.
+            * They had `no` reading books to lend.
+    2. none
+        * 在句中可作主语、宾语和表语
+        * 意思是'没有一个人(或事物)'，表复数或单数
+            * `None` of them is/are in the classroom.
+            * I have many books, but `none` is interesting.
+
+---
+
+3. **all 和 both**
+    1. all：指三者或三者以上的人或物，代替或修饰可数名词；或不可数名词
+        * I know `all` of the four British students in their school.
+    2. both：指两个人或物，用来代替或修饰可数名词。
+        * Would you like this one or that one?————`Both`.
+    3. all和both在句子中作主语、宾语、表语、定语等
+    4. all/both + of the + 名词(复数) ， 其中of可以省略
+        * `All` (of) the **boys** are naughty.
+
+---
+
+4. **every 和 each**
+    1. every
+        * 形容词
+        * 只作定语
+        * 修单数名词
+        * '每一个'，表整体概念
+            * `Every` **one of the students** in his class studies very hard.
+    2. each
+        * 形容词/代词
+        * 可作主语/宾语/定语
+        * '每个''各个'
+        * 表单个概念
+            * They are very busy.`Each` **of them** has something to do.
+
+---
+
+5. **either 和 neither**
+    1. either: 两个中间的任何一个
+        * I don't care mush for what to drink. `Either` of the two till do.
+    2. neither: either的否定形式，'两个都不'
+        * Will you go there by bus or by car?———— `Neither.`I will go there by train.
+    3. neither 和 either在句子中可作主语、宾语和定语等，都用作单数
+
+---
+
+6. **other , the other 和 another**
+    1. other: '另一''其余'；有复数形式；作主语、宾语和定语；不同种类
+        * I have eaten 4 cakes, but I still want `other`.*不同种类*
+    2. another：'另外''又一个'，表示增加；作宾语和定语；同种类
+        * You have had several cakes. Do you really wangt `another` one?*同种类*
+        * I have eaten 4 cakes, but I still want `another`.*同种类*
+    3. the other: 只有两个时用 the other 'one …… the other'
+        * This is `one` of your socks. Where is the `other one`?
+
+---
+
+7. **others 和 the others**
+    1. others '其余的人/物' 指**大部分**
+        * A few students are palying soccer while `others` are watching them.
+    2. the others '其余的人/物' 指**全部**
+        * Two of the ten boys are standing and `the others` are sitting round them.
+
+---
+
+8. **many 和 much**
+    1. many '许多' 与可数名词复数连用
+        * I don't have `many` friends here.
+        * `Many` died in the bus accident.
+    2. much '很多' 与不可数名词连用
+        * Wecan learn `much` with the help of him.
+
+---
+
+9. **few、little、afew、alittle**
+    1. few/little:'很少几个'、'几乎没有'，否定的意思
+    2. a few / a little: '有几个'、'有些' ， 肯定的意思
+    3. few / a few: 与可数名词连用或替可数的事物
+        * In that polar region there live `few` people. 在那个极地地区**几乎没人**住
+        * You can get `a few` sweets from him. 你可以从他那里得到**一些**糖果。
+    4. little / a little: 与不可数名词连用或替不可数的事物
+        * He is very poor and he has `little` money. 他很穷，几乎**没有**什么钱
+        * Don't worry.There is still `a little` time left. 别着急，还有**一点儿**时间呢
+    * *有a肯，没a否；小样的(little)不可数*
+
+---
+
+10. **somebody , something , anything , nothing , everything , everybody**
+
+符合不定代词在句子中当单数使用
+
+1. somebody,something,someone 一般用于肯定句中
+    * Hey,Lily. There is `someone` outside the door.
+2. anything,anybody,anyone 一般用于疑问句、否定句和条件状语从句中
+    * He has `nothing` much to do today.
+3. 修饰复合不定代词的定语，应放在它们的后面
+
+---
+
+11. **a lot of , lost of , a number of , large numbers of , a great deal of, plenty of  '大量，许多'**
+
+    1. a lot of , lost of , plenty of: 既可修不可数名词也可修可数名词的复数形式
+        * `A lot of` people think that time is money.
+        * I don't have to do it in a hurry because i have `plenty of` time.
+    2. a number of/large numbers of: 只修可数名词的复数形式
+        * I have `a number of` etters to write today.
+    3. a great deal of: 只修不可数名词
+        * I spend `a great deal of` time/money on shopping.
+
+---
+
+12. **none , no one , nobody**
+
+    1. no one/noBody: 指人，后不跟of短语，谓语用单数形式
+        * `No one` knows how he managed to get the ticket.
+        * `NObody` handed in his/their compositions yesterday.
+    2. none：指人也可指物，后可跟if短语，谓语可用单数也可用复数
+        * `None of` my friends came to see me that day.
+
+---
+
+#### 相互代词
+
+表示相互关系的词叫相互代词
+
+1. each other/one another '互相'，可通用
+    * We must help `each other/one another` when we are in trouble. 我们身处困境时要互相帮助
+    * They sat there without talking to `each other/one another`. 他们坐在那儿，互相都不说话
+2. 所有格形式 each other's/one another's
+
+---
 
 ## 形容词(adjective)(adj.)
 
@@ -571,7 +770,7 @@ a mile and two == one or two miles
 
 ### 重要介词的辨析
 
-#### 时间或地点介词 in , on , at
+##### 时间或地点介词 in , on , at
 
 1. 时间
     * in：表示在一段时间里；在将来时中表示在一段时间后；
@@ -588,7 +787,7 @@ a mile and two == one or two miles
 
 ---
 
-#### 时间介词 after 与 in "在……之后"
+##### 时间介词 after 与 in "在……之后"
 
 * "after+(具体时刻/从句)" ： 表示在……时刻之后，常用一般时态
     * He said that he would be here `after` 6:00
@@ -597,7 +796,7 @@ a mile and two == one or two miles
 
 ---
 
-#### 时间介词 since 与 for
+##### 时间介词 since 与 for
 
 * since+(具体时刻)：自从……起一直到现在
     * Uncle Li has worked in this factory `since` 1970.
@@ -606,7 +805,7 @@ a mile and two == one or two miles
 
 ---
 
-#### by , in 与 with "工具，手段"
+##### by , in 与 with "工具，手段"
 
 * by
     * 乘坐某交通工具
@@ -622,7 +821,7 @@ a mile and two == one or two miles
 
 ---
 
-#### through , across 与 over
+##### through , across 与 over
 
 * through
     * 穿过……(门洞/人群/树林)
@@ -636,7 +835,7 @@ a mile and two == one or two miles
 
 ---
 
-#### as 与 like "像"
+##### as 与 like "像"
 
 * as : 作为……；表职业、职务、作用等，**是事实**
     * Let me speak to you `as` a father. 我以父亲的身份和你讲话
@@ -645,7 +844,7 @@ a mile and two == one or two miles
 
 ---
 
-#### at the end of , by the end of , to the end , in the end
+##### at the end of , by the end of , to the end , in the end
 
 1. at the end of……：既可表示时间也可表示地点；常用过去时
     * `At the end of` **the road** *地点* you can find a big white house with brown windows.
@@ -659,7 +858,7 @@ a mile and two == one or two miles
 
 ---
 
-#### for a moment , for the moment , in a moment , at the moment
+##### for a moment , for the moment , in a moment , at the moment
 
 * for a moment : 一会儿，片刻 = for a while ，常与持续性动词连用
     * Please wait `for a moment`. 等我一会
@@ -672,7 +871,7 @@ a mile and two == one or two miles
 
 ---
 
-#### in front of 与 in the front of
+##### in front of 与 in the front of
 
 * in front of : 在……的前面(外部的前方)
     * A car was parking `in front of` the hall.
@@ -681,7 +880,7 @@ a mile and two == one or two miles
 
 ---
 
-#### except 与 besides
+##### except 与 besides
 
 * except : 除了 ， 表不包含
     * Everyone went to the palace Museumn `except` Tom. 除了Tom，大家都去了故宫

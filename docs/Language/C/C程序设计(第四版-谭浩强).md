@@ -767,3 +767,340 @@ x2=  -2.00
     * `%f`计算double1/3，输出 `0.333333`
     * 指定数据宽度和小数位数：`%20.15f`计算double1/3，输出`   0.333333333333333`
     * 输出数据向左对齐 ：`%20.15f`计算double1/3，输出`0.333333333333333   `
+5. e格式符 : 指定以指数形式输出实数
+    * `printf("%e",123.456);` 输出 `1.234560e+002`
+    * `printf("%13.2e",123.456);` 输出 `    1.23e+002`
+6. i格式符 ：作用于d相同，但多用%d而少用%i
+7. o格式符 ：以八进制整数形式输出。
+8. x格式符 ：以十六进制数形式输出整数
+9. u格式符 ：用来输出无符号型数据，以十进制整数形式输出
+10. g格式符 ：用来输出浮点数，系统自动选择f格式或e格式输出，选择其中较短的格式，不输出无意义的0
+
+---
+
+|格式字符|说明|
+|:-------:|:-------:|
+|d,i|以带符号的十进制形式输出整数(正数不输出符号)|
+|o|以八进制无符号形式输出整数(不输出前导符0)|
+|x,X|以十六进制无符号形式输出整数(不输出前导符0x)，用x/X输出a/A ~ z/Z的形式|
+|u|以无符号十进制形式输出整数|
+|c|以字符形式输出，只输出一个字符|
+|s|输出字符串|
+|f|以小数形式输出单、双精度数，隐含输出6位小数|
+|e,E|以指数形式输出实数，用e/E时指数用e/E表示，如1.2e/E+02()|
+|g,G|选用%f或%e格式中输出宽度较短的一种表达方式，不输出无意义数0，用G时，若以指数形式输出，这指数以大写表示|
+
+---
+
+|格式附加字符|说明|
+|:-------:|:-------:|
+|l|用于长整型整数，可加在格式符d、o、x、u 前面|
+|m (%[m]...)|数据最小宽度(%5d)|
+|n (%[m.n]...)|对实数，表示输出n位小数，对字符串，表示截取的字符串长度|
+|-|输出的数字或字符在域内左浮动|
+
+<small>如果想输出字符'%'，则`printf("%f%%\n" , ...)`,使用连续两个%输出</small>
+
+---
+
+#### 3.4.4 用scanf函数输入数据
+
+`scanf(格式控制，地址表列);`
+
+* 标准情况：`scanf("%d" , &a)` 键入`1`来完成函数
+* 其他字符情况：`scanf("a=%d" , &a)` 键入`a=1`来完成函数
+
+---
+
+#### 3.4.5 字符数据的输入输出
+
+##### putchar函数
+
+```c
+char a = 'A',b='B',c='C';
+putchar(a);
+putchar(b);
+putchar(c);
+```
+
+<output data-lang="output">
+ABC
+</output>
+
+putchar 是 put character 的缩写，作用是输出字符变量的值，且只能输出一个字符
+
+---
+
+##### getchar函数
+
+```c
+char a,b,c;
+    a = getchar();
+    b = getchar();
+    c = getchar();
+    printf("%c%c%c",a,b,c);
+```
+
+<output data-lang="output">
+
+ABC
+
+ABC
+
+</output>
+
+当输入`A\nB\nC`时，输出的是
+
+<output data-lang="output">
+
+A
+
+B
+
+A
+
+B
+
+</output>
+
+因为输入的是 A、\n、B
+
+---
+
+## 第四章 选择结构程序设计
+
+### 4.1 选择结构和条件判断
+
+### 4.2 用IF语句实现选择结构
+
+---
+---
+---
+
+### IF语句
+
+```c
+#include <stdio.h>
+
+int main()
+{
+    int a = 0;
+    if(a >= 10)
+    {
+        printf("ok");
+    }
+    else if(a == 0)
+    {
+        printf("寄");
+    }
+    return 0;
+}
+```
+
+---
+
+### 逻辑运算符
+
+* && 与 都真为真
+* || 或 有真为真
+* ！ 非 转换
+
+---
+
+### 布尔值
+
+`_Bool`
+
+```c
+#include <stdio.h>
+
+int main()
+{
+    int a = 10;
+    char c = 10;
+    _Bool b;
+    b = a == c;
+    if (b)
+    {
+        printf("寄");
+    }
+    return 0;
+} //寄
+```
+
+如引入 <stdbool.h>
+
+```c
+#include <stdio.h>
+#include <stdbool.h>
+
+int main()
+{
+    int a = 10;
+    bool b;
+    if(a==10)
+    {
+        b = true;
+    }
+    if(b)
+    {
+        printf("?");
+    }
+}//?
+```
+
+### 三目运算符
+
+```c
+#include <stdio.h>
+
+int main()
+{
+    int max , a=10, b=20;
+    max = (a>b) ? a:b;
+    //(a>b) ? (max=a):(max=b);
+    printf("%d" , max);
+}
+```
+
+### switch语句
+
+```c
+#include <stdio.h>
+
+int main()
+{
+    int a = 10;
+    switch(a)
+    {
+        case 10:printf("10");
+            break;
+        case 20:printf("20");
+            break;
+        default:printf("寄");
+    }
+} //10
+```
+
+### while 循环
+
+```c
+
+#include <stdio.h>
+
+int main()
+{
+    int a = 10;
+    while(a>10)
+    {
+        printf("?");
+    }
+}
+```
+
+### do while 循环
+
+```c
+#include <stdio.h>
+
+int main()
+{
+    int a = 10;
+    do
+    {
+        printf("!");
+    }
+    while(a=0);
+    {
+        printf("?");
+    }//!?
+}
+```
+
+不论while判定语句是否为true，while语句始终会运行一次
+
+### for循环
+
+```c
+#include <stdio.h>
+
+int main()
+{
+    int a = 0;
+    for(int i = 0;i<5;i++)
+    {
+        a++;
+    }
+    printf("%d",a);
+}//5
+```
+
+### 跳出循环
+
+```c
+#include <stdio.h>
+
+int main()
+{
+    int a = 0;
+    for(int i = 0;i<5;i++)
+    {
+        a++;
+        if(a==3)break;
+        printf("%d",a);
+    }
+}//12
+```
+
+```c
+#include <stdio.h>
+
+int main()
+{
+    int a = 0;
+    for(int i = 0;i<5;i++)
+    {
+        a++;
+        if(a==3)continue;
+        printf("%d",a);
+    }
+}//1245
+```
+
+* break是终止整个循环
+* continue是仅终止本次循环，使continue语句后的循环体取消本次执行
+
+### 数组
+
+* `int a[3]` 定义一个长度为3的一维数组
+* `int a[3] = {0,1}` 初始化长度为3部分数组，未初始化的元素为0
+* `int a[] = {0,1}` 定义一个长度为2的数组 a[1]==1
+
+```c
+#include <stdio.h>
+
+int main()
+{   
+    int a[] = {0,1,2};
+    printf("%d",a[2]);//2
+    int b[3][4]={{1},{0,6},{0,0,11}};
+    printf("%d" , b[2][2]);//11
+}
+```
+
+### 字符数组
+
+* char c[3]; 未初始化的值为空字符(\0)
+* char c[3] = {'a','b','c'};
+* char c[] = {'a','b','c'};
+* char c[] = {"china"}; 存储为{'c','h',i','n','a','\0'},但输出字符不包括\0
+
+当使用`%s`输出字符数组时
+
+* `printf("%f",c)`而不是c[...]
+
+当使用`scanf(%s)`键入字符数组时应
+
+* `scanf("%s%s%s",c1,c2,c3)`,键入 how are you 则存储为三个数组`{'h','o','w'},{'a','r','e'},{'y','o','u'}`
+* `scanf("%s",c)`,键入 how are you 则会存储为`{'h','o','w','\o','\o','\o'....}`,因为系统将空格作为分隔符
+* 且使用scanf键入数组时不需要 &c , 因为C中数组名代表该数组的起始地址
