@@ -563,6 +563,248 @@ who、whoe、whose、what、which、whoever、whatever、whichever 主要用于�
 
 数目或顺序
 
+分为基数词和序数词两种
+
+作句子的主语、宾语、表语、和定语
+
+---
+
+### 基数词
+
+表示数目的词叫基数词
+
+1. 百 hundred
+2. 千 thousand
+3. 万 ten thousand
+4. 十万 hundred thousand
+5. 百万 million
+6. 千万 ten million
+7. 亿 100 million
+8. 十忆 billion
+9. 百亿 ten billion
+10. 千亿 one hundred billion
+11. 万亿 trillion
+
+---
+
+#### 基数词的正确表达
+
+1. 大数字从右向左看
+2. 每隔三位划一逗号
+3. 倒数第一个逗号之前要用 `thousand`;倒数第二个逗号之前要用 `million`;倒数第三个逗号之前要用 `billion`;倒数第四个逗号之前要用 `trillion`
+4. 百位与十位之间加 `and`
+5. hundred、thousand、million 作数词时，不用复数
+6. 前面可以加上 one 、two等其他数词
+7. 用作名词是复数表示 '成……上……'，后面必须有of，前面可以加上some，many，several等词
+    * five hundred *五百*
+    * hundreds of *好几百*
+    * some (four) thousands of *好几千/四千左右*
+
+---
+
+* 一千1,000 => one thousand
+* 九万 90,000 => ninety thousand
+* 八十万 800,000 => eight hundred thousandq
+* 五百万 5,000,000 => five million
+* 六千万 60,000,000 => sixty mmillion
+* 三亿 300,000,000 => three hundred million
+* 156 = one hundred and fifty-six
+* 16,250,064 = sixteen million two hundred and fifty thousand sixty-four
+* 5,237,166,234 = five billion two hundred and thirty-seven million one hundred and sixty-six thousand two hundred and thirty-four
+
+---
+
+### 序数词
+
+表示顺序的数词叫序数词
+
+1. 两位以上的序数词个位数部分用序数词，其余部分用基数词
+    * thirty-sixth
+2. 使用序数词时一般加定冠词the
+    * I'm in the third  grade.
+3. 序数词作'几分之几'时有复数形式
+    * 1/5 = one fifth
+    * 2/3 = two thirds
+
+---
+
+#### 序数词的正确表达
+
+1. 表示年份
+    * 2002 = twenty and two / two thousand and two
+    * 1976 = nineteen seventy-six.
+2. 表示日期
+    * 12月1日 = Dec.1st / the first of December;
+    * 2002年11月8日 = Nov.8th, 2002.
+3. 表示时刻
+    * 5:15 = five fifteen / a quarter past five.
+    * 8:30 = eight thirty / half past eight.
+    * 10:45 = ten forty-five / a quarter to eleven.
+4. 表示编号
+    * Room 105 = Room one 0 five
+    * Bus No.13 = Bus Number Thirteen
+    * P 5 = page Five
+    * Tel.No 7658659 = Telephone Number seven-six-five-eight-six-five-nine
+5. 小数的读法
+    * 5.7 = five `point` seven
+    * 0.16 = zero `point` one six
+6. '半' 的表达
+    * 半小时 = `half` an hour
+    * 1.5小时 = one and a `half` hours / one hour and a `half`
+7. 序数词前面加 the 时，表示顺序，加a/an时表示'再一''又一'
+    * `The third` lesson is tather difficult
+    * Shall we read the text `a third time`? *我们把课文读第三遍。好吗*
+
+---
+
+### 其他
+
+#### 数词的特殊位置
+
+1. 位于 another , all 之后
+    * Can you have `another two` cakes?
+    * The boy lost `all five` pencils last week.
+2. 位于 such 和 more 之前
+    * I can finish reading `two such` books in two days.
+    * Please give me `one more` apple to eat.
+3. 可置于last,next,other 之前或之后
+    * His `last two` books are written in English.
+    * His `two last` books are written in English.
+
+---
+
+#### 小数点
+
+* 6.85 = six `point` eight six
+* 14.15 = fourteen `point` one five
+* 345.456 = three four five `point` four five six
+
+---
+
+#### 分数
+
+百分数中的百分号%读作 Percent
+
+* 6% = six percent
+* 500% = five hundred percent
+* 12.34% = twelve point three four percent
+
+---
+
+#### 运算
+
+* 6+5=11 = Six `plus` five is eleven / Six `and` five is eleven
+* 11-6=5 = Eleven `minus` six is five. / Six `from` eleven is five
+* 4*5=20 = Four `multiplied` by five is twenty. / Four `times` five is twenty.
+* 20/4=5 = Twenty `divided by` four is five. / Four `into` twenty goes five.
+* 15:5=3 = `The ratio of` fifteen  `to` five is three.*比率*
+* a>b = a is `more than` b
+* a<b = a is `less than` b.
+* a≈b = a `approximately equals` to b.
+* a!=b = a `is not equal` to b.
+
+---
+
+#### 年代
+
+1. 年代用年份的阿拉伯数字加`-s`或`s`表示
+    * 十七世纪二十年代 = 1620's 或 1620s
+2. 初期`early`、中期`mid-`、末期`late`
+    * 三十年代初期 = the `early` thirties
+    * 三十年代中期 = the `mid-`thirties
+    * 三十年代末期 = the `late` thirties
+
+---
+
+#### 时刻
+
+1. 二十四小时计时法
+    * 01:00 = one o'clock
+    * 01:20 = one twenty
+    * 02:10 = two ten 或 ten past two
+    * 09:45 = nine forty-five 或 a `quarter` to ten
+    * 10:15 = ten fifteen 或 a `quanter past` ten
+    * 15:30 = fifteen thirty 或 half past fifteen
+    * 21:15 = twenty one fifteen
+    * 23:00 = twenty-three hours
+    * 23:45 = twenty-three forty-five
+2. 十二小时计时法
+    * 8:00 a.m / 8:00 a.m. = eight a.m. 或 eight in the moring
+    * 8:45 a.m. = eight forty-five a.m. 或 a quarter to nine in the morning.
+    * 2:00 p.m. = two(o'clock) p.m. 或 two(o'clock) in the afternoon.
+    * 5:15 p.m. = five fifteen p.m. 或 a quarter past five in the afternoon.
+    * 8:55 p.m. = eight fifty-five at night 或 five to nine at night
+
+---
+
+#### 年月日
+
+1. 年份通常用阿拉伯数字表示，用基数词读。公元前用B.C ; 公元用A.D表示
+    * 公元前502年 = 502 B.C
+    * 公元429年 = 429 A.D
+2. 月日既可以先写月再写日(英)，也可以先写日再写月(美)
+    * 1946年6月8日 = June 8,1946
+    * 2000年 = two thousand
+3. 表示'年'和'月'时，在年月前用介词 In ，表示具体日期时，在'日'前用介词 On
+    * 在2003年 = in 2003
+    * 在七月 = In July
+    * 在1998年6月24日 = on June 24,1998
+4. 书信的格式：
+![alt:'alt'](http://pic.kekenet.com/2015/0423/64581429753817.png)
+
+---
+
+#### 货币
+
+1. 英镑的符号'£'放在数字前面，但单位词 'pound(s)'放在数字后面
+    * 50英镑 = £50 读作 fifty pounds
+2. 便士可用 `P` 表示，单数为 penny ，复数为pence
+    * 1便士 = 1P = one penny
+    * 5便士 = 5P = five pence
+    * 54英镑36便士 = £54.36 = five-four pounds thirty-six pence
+3. 美元的符号 `$` 放在数字前面，单词`dollars` 放在数字后面
+    * 2美元25美分 = $2.25 = two dollars twenty-five cents
+    * 563美元 = $563 = five hundred sixty-three dollars
+
+---
+
+#### 大约
+
+`about`、`approximately`、`around`、`more or less`、`roughly` 等+数词
+
+或 数词+ `more or less`、`or so`、`somewhere`
+
+* `about` 1,000 books
+* 2,000 seats `more or less`
+* `approximately` 86 miles
+* sixty `or so` pages
+* somewhere `about` 300 people
+
+---
+
+#### 多于 、 少于
+
+1. 多于 `above` `more than` `over` 等 +数词
+    * above 90 Yuan
+    * students over 45
+2. 少于 `almost` `below` `less than` `under` 等 +数词
+    * almost ten years old
+    * less than a minute
+    * under two hours
+
+---
+
+```markdown
+十二以内数字靠记忆，十三至十九，后有-teen
+二十至九十有-ty,'几十几'，中间"-"别丢弃
+hundred是百，thousand是千
+英语没万，没十万，没千万，也没有亿
+ten thousand它是万，hundred thousand是十万；百万就是million；十亿就是billion
+由右向左三位一逗号；逗号一是thousand；逗号二是million；逗号三是billion
+```
+
+---
+
 ## 动词(verb)(v)
 
 动作或状态
