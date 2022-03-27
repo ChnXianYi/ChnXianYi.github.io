@@ -2,6 +2,7 @@
 
 ## Include various Word
 
+海 ocean sea
 能力 ability power skill√
 票 fare ticket√
 终止 finish end√
@@ -13,7 +14,7 @@
 高兴的 pleased joy glad delighted
 联系 contact relation
 灯 lamp bright light
-花费 expense spend fee tip expensive
+花费 expense spend fee tip expensive pay
 聪明的 clever smart
 喜爱 fond keen
 leave 许可 已收 离开 departure
@@ -22,7 +23,7 @@ leave 许可 已收 离开 departure
 简单 plain ordinary general
 空的 empty spare space
 钱包 wallet purse
-位置 location position distance
+位置 location position distance place
 爱好 habit hobby interest
 周期 period cycle
 计划决心 goal purpose plan target
@@ -62,20 +63,24 @@ leave 许可 已收 离开 departure
 船 boat
 晚餐 dinner
 行李 baggage luggage
-财富 wealth  plenty
+财富 wealth  plenty valuable
 电影 film cinema movie
 普通的 common
 人口 population
 关闭 close shut off
 职业 工作 vocation occupation
 暖的 mild warn
-盘子 dish tray
+盘子 dish tray plate
 确实 indeed
 标题 headline title
 奇怪的 strange odd
 极好的 fantastic super
 有效的 available useful
 安全 safe
+无聊 dull boring
+标准 normal standard
+糟糕的 bad serious terrible
+有病的 sick ill
 
 ---
 
@@ -126,7 +131,7 @@ little
 serve server several
 employ employer employee employment
 please pleasant
-technician technical
+technician technical mechanic 技师
 noisy noise
 transfer transport
 electronic electric

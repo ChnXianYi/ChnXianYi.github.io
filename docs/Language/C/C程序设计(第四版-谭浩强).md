@@ -1104,3 +1104,339 @@ int main()
 * `scanf("%s%s%s",c1,c2,c3)`,键入 how are you 则存储为三个数组`{'h','o','w'},{'a','r','e'},{'y','o','u'}`
 * `scanf("%s",c)`,键入 how are you 则会存储为`{'h','o','w','\o','\o','\o'....}`,因为系统将空格作为分隔符
 * 且使用scanf键入数组时不需要 &c , 因为C中数组名代表该数组的起始地址
+
+!> 接下来介绍的都属于库函数，使用前需引入`#include <string.h>`
+
+##### puts函数
+
+`puts(str)`
+
+```c
+char c[] = {"china"};
+puts(c);//china
+```
+
+仅能输入字符数组*暂定*，支持字符串中包含转义字符
+
+---
+
+##### gets函数
+
+`gets(str)`
+
+从终端输入一个字符串到字符数组，且得到一个函数值
+
+```c
+char str[] = {};
+    gets(str);
+    puts(str);
+
+// fuck
+// fuck
+```
+
+gets函数的返回值是str的起始地址，但一般利用gets函数进行输入字符串，很少关心返回值
+
+---
+
+##### strcat
+
+`strcat(str1,str2)`
+
+将两个字符数组中的字符串连接起来
+
+```c
+#include <stdio.h>
+#include <string.h>
+
+int main()
+{   
+    char str[100]; // 需设置足够长的长度
+    char str1[100];
+    gets(str);
+    gets(str1);
+    puts(strcat(str,str1));
+    //fuck
+    //you
+    //fuckyou
+}
+```
+
+---
+
+##### strcpy 和 strncpy
+
+`strcpy(字符数组1，字符串2)` 将str1替换掉str
+
+strcpy = STRingCoPY 的简写
+
+`strncpy(str,str1,2)` 将str1中前两个字符替换str中的前两个字符
+
+```c
+#include <stdio.h>
+#include <string.h>
+
+int main()
+{   
+    char str[100],str1[]={"fuck"},str2[] = "you",str3[]="Fu";
+    strcpy(str,str1);//fuck
+    strcat(str,str2);//fuckyou
+    strncpy(str,str3,2);//Fuckyou
+    puts(str);
+}
+```
+
+---
+
+##### strcmp函数
+
+STRingCoMPare 字符串比较
+
+`strcmp(str,str1)`
+
+如果 s1 和 s2 是相同的，则返回 0；如果 s1<s2 则返回小于 0；如果 s1>s2 则返回大于 0。
+
+按照ASCII码值的大小进行比较
+
+```c
+#include <stdio.h>
+#include <string.h>
+
+int main()
+{   
+    char str[]="a";
+    char str1[]="ab";
+    char str2[]="A";
+    char str3[]="AB";
+    char str4[]="a";
+    printf("%d\n" , strcmp(str,str1));//-1
+    printf("%d\n" , strcmp(str1,str2));//1
+    printf("%d\n" , strcmp(str2,str3));//-1
+    printf("%d\n" , strcmp(str,str4));//0
+}
+```
+
+---
+
+##### strlen
+
+输出str的length
+
+```c
+char str[]="china";
+printf("%d",strlen(str));//5
+```
+
+---
+
+##### strlwr strupr
+
+大小写转换
+
+```c
+char str[]="CHINA";
+puts(strlwr(str));//china
+puts(strupr(strlwr(str)));//CHINA
+```
+
+---
+
+### 函数
+
+空函数`dummy();`
+
+定义函数时应指定函数值的类型，且返回这也应保持一直。如`int max(int a , int b)`
+
+对于不带返回值的函数，应定义为 void 类型
+
+数组传参
+
+```c
+#include <stdio.h>
+#include <string.h>
+
+int main()
+{   
+    char str[]="CHINA";
+    void alert(char array[10]);
+    alert(str);
+}
+
+void alert(char array[])
+{
+    puts(array);
+}
+```
+
+---
+
+### 变 量
+
+变量和函数都有两个属性：数据类型和数据的存储类别
+
+存储类别包括：
+
+1. 自动变量(auto变量)
+    * 自动变量在函数调用时，创建存储空间，调用结束后释放空间
+    * `auto ...`
+    * 默认情况下的变量都是自动变量
+2. 静态局部变量(static局部变量)
+
+```c
+#include <stdio.h>
+#include <string.h>
+
+int main()
+{   
+    int add(int a);
+    int n;
+    for(int i = 0;i<3;i++)
+    {
+        n = add(i);
+    }
+    printf("%d" , n);//6
+}
+
+int add(int a)
+{
+    static int big = 3;
+    big += a;//3→4→5→6
+    return big;
+}
+```
+
+---
+
+3. 寄存器变量(register)
+    * 一般情况下变量的值是放在内存中的，使用关键字`register`可以将变量存储在cpu的寄存器中，寄存器的存取速度远高于内存。但编译系统能识别使用频繁的变量且将变量存储在寄存器中。基本不需要手动指定
+
+4. 外部变量(extern)
+    * 外部变量是在函数的外部定义的全局变量
+    * 作用域是从引用处到文件结束
+    * 本文件的外部变量只需在main 函数外定义既可
+    * 跨文件引入变量
+        * 在主文件引入 `int A`
+        * 在需拓展的子文件中头部使用 `extern A;` 拓展声明
+        * 主文件中需控制外部变量作用域可 `static int A`,来使外部变量变为静态外部变量。从而避免外部变量的跨文件污染问题
+
+---
+
+1. 内部函数
+    * 只能在本文件被其他文件调用
+    * 使用`static int fun()` 定义
+    * 避免多文件函数污染
+    * 通常把由本文件使用的函数和外部变量放在文件的开头，且用static关键字来进行局部化
+2. 外部函数
+    * 在定义函数时，在函数最左端添加关键字`extern`,则声明为外部函数
+    * `extern void int fun()`
+    * C规定，在定义函数未添加`extern`的函数默认为外部函数
+    * 在文件中需要调用其他文件的外部函数，也需要声明
+
+---
+
+### 指针
+
+一个变量的地址称为该变量的**指针**，一个变量的指针的含义为，1.该变量以存储单元编号表示的地址，2.指向的存储单元的数据类型
+
+如果使用一个变量来存储指针，则这个变量称为指针变量，变量值即为指针
+
+* 类型名(基类型) * 指针变量名 来定义指针变量
+* 字符`*`表示指针，`int* pointer` `int * pointer` `int *pointer` 都可，可读作'int 指针'
+* 在定义指针变量时必须指定基类型
+    * 指针初始化后未进行分配地址时(未指定基类型)，该指针会指向一个随机地址，如果在此时进行读写，将会造成意想不到的效果
+        * 因此，建议在初始化时指定`int *p = NULL`,从而将指针指向地址为0的内存空间。读写时将报错
+* 给指针变量赋值`int *p = &a`,
+
+```c
+#include <stdio.h>
+
+int main()
+{   
+    int a = 10;
+    int * p = &a; // 指针p指向a的地址
+    printf("%d" , * p);//10
+    int a1 , * p1=&a1;// 创建值，指针指向值
+    * p1 = 15;//给指针变量的值赋值
+    printf("%d",* p1);//15
+}
+
+```
+
+* 指针的运算不同于整数运算，还取决于指向的数据类型有关。
+* 指针引用数组可 `p=&arr[0]` 也可 `p=&arr` ，效果相同，因为数组名 代表的是数组首元素的地址。
+    * 数组里可以进行指针的加减法运算，等同于下标查找
+
+```c
+#include <stdio.h>
+
+int main()
+{   
+    int arr[10] = {0,1,2,3,4,5};
+    int * p = &arr[0];
+    int * p1 = arr , * p2 = arr;
+    printf("%d" , p[1]);//1
+    printf("%d" , *(p+1));//1
+    printf("%d" , *(p1+1));//1
+    while(* p2 != 5)
+    {
+        p2++;
+    }
+    printf("%i" , p2-p1);//5
+}
+```
+
+* 数组的复制
+    * 由于数组名是指针，所以不能简单的直接复制`a=b`
+    * 可以使用循环将数组的元素逐个复制
+    * 使用`memcpy(a, b, sizeof(b));`直接将数组b的内存复制给a*需引用#include <string.h>*
+* 函数数组传参
+    * 当数组作为函数的参数时，一般会同时传入数组和数组长度
+    * 因为数组名就是指针，只传数组名的话会不知道结束的地址
+
+```c
+#include <stdio.h>
+
+int main()
+{   
+    int arr[3] = {0,1,2};
+    int arrTotal(int a[] , int n);
+    arrTotal(arr , 3);
+}
+
+int arrTotal(int a[] , int n)
+{   
+    for(int i = 0;i<n;i++)
+    {
+        printf("%d" , *(a+i));//012
+        printf("%d" , a[i]);//012
+    }
+}
+
+```
+
+* 多维数组其他维的长度可以当做参数传入
+
+```c
+#include <stdio.h>
+
+int main()
+{   
+    int arr[2][2] = {{0,1},{2,3}};
+    int arrTotal(int a[][2] , int n);
+    arrTotal(arr , 2);
+}
+
+int arrTotal(int a[][2] , int n)
+{   
+    for(int i = 0;i<n;i++)
+    {
+        for(int j = 0;j<2;j++)
+        {
+            printf("%d" , **(a+i)+j);//0123
+            printf("%d" , a[i][j]);//0123
+        }
+    }
+}
+
+```
+
