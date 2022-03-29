@@ -555,9 +555,115 @@ who、whoe、whose、what、which、whoever、whatever、whichever 主要用于�
 
 ## 形容词(adjective)(adj.)
 
-表人或事物的性质或特征
+表人或事物的性质或特征，用来修饰名词，代词的词称为形容词
 
 形容词将充当定语
+
+### 在句中的位置
+
+1. 多放名词之前，音节少的词放在音节多的词之前
+    * A `big yellow` wooden wheel.
+2. 作表语时放系动词(be动词，感官动词)之后
+    * The price **sounds** `reasonable`.
+3. 作宾语补足语时放宾语之后
+    * We must try our best to **keep our environment** `clean`.
+4. 后置
+    1. 修饰复合不定代词时放在代词之后
+        * **Something** `serious` has happened to him.
+    2. 与表示'长、宽、高、重、老、距离'的词连用时形容词后置
+        * He's 1.8 **meters** `tall`.
+
+---
+
+### 形容词分类和词序
+
+1. 限定词
+    * `a an the my your four those some`
+2. 描绘性形容词
+    * `beautiful boring stupid delicious useful lovely comfortable`
+3. 大小
+    * `big small tall huge tiny`
+4. 形状、重量、长短
+    * `round square circular skinny fat heavy straight long short`
+5. 状态
+    * `broken cold hot wet hungry rich easy difficult dirty`
+6. 年龄
+    * `old young new ancient antique`
+7. 颜色
+    * `green white blue reddish purple`
+8. 图案
+    * `striped spotted checked flowery`
+9. 国籍
+    * `American British italian eastern Australian Chilean`
+10. 物质材料
+    * `gold wooden silk paper synthetic cotton woolen`
+11. 类别或用途
+    * `sleeping wedding`
+
+形容词词序按照以上顺序
+
+* A beautiful big purple wooden desk. 限定词+描述性+大小+颜色+材质+名词
+* A pretty little square old black Japanese wooden writing desk. 限定词+描述词+描述词+形状+颜色+国籍+材质+类别+名词
+
+---
+
+### 形容词易混辨析
+
+1. interested 与 interesting
+    * interesting '令……感兴趣的'
+        * The man is very `interesting` and all the children like him.
+    * interested '对……感兴趣的'
+        * I am `interested` in science.
+2. good 与 well
+    * good 作定语或表语
+        * Doing sports is `good` for us.*表语*
+    * well/fine 表'身体'好，或作状语时用
+        * Study `well` and make progress every day.*状语*
+        * I am very `well`.*身体*
+3. nice 与 fine
+    * nice 表令人愉快的，可指东西、人物外表等
+        * Let's go and share the `nice` cake.*东西*
+        * She is a `nice` girl.*人*
+    * fine 指身体或天气好
+        * What a `fine` day!*天气*
+        * He's `fine` recently.*身体*
+4. too much 与 much too
+    * too much '太多的'，修饰名词表示事物数量
+        * I am full because i have had `too much` rice.*名词*
+    * much too '太过；过分'，修饰形容词或副词
+        * That coat is `much too` dear.*形容词*
+            * dear
+                * adj 可爱的 亲爱的 贵的
+                    * a `dear` friend.*亲爱的*
+                    * What a `dear` little boy!*可爱的*
+                    * The sweater is much too `dear`.*贵的*
+                * 感叹词 '惊愕、奇怪、惊奇'
+                    * Oh, dear! I've lost my pen.
+                    * Dear!Dear! I'm sorry to hear that.
+                * 名词 '可爱的人、亲爱的人'
+                    * Did you have a good time at work , `dear`?
+5. quick fast 与 soon
+    * quick 与 fast 速度快
+        * After a `quick` breakfast, he hurried to school leaving his bag at home.*速度*
+        * A train is much `faster` than a bus.*速度*
+    * soon 时间快
+        * His father will be back to China very `soon`. *时间*
+6. lonely 与 alone
+    * lonely '孤独的，寂寞的'；一个人的后果
+        * He is `lonely` person. You can not easily get on well with him.
+    * alone '独自的，单独的'；一个人的事实
+        * He lives `alone` but he doesn't feel lonely.
+7. living alive live lively
+    * living '活着的，现存的' '一模一样的，逼真的'；'强烈的'； '活泼的' = lively
+        * We have a `living` hope that you will succeed. *强烈的*
+    * live 指东西 '活的'；'现场的，实况的'
+        * This is a `live` fish.*(东西)活着的*
+    * alive 指人 '活着的'
+        * Is she still `alive`?*(人)活着的*
+    * lively 生气的，活泼的，可爱的，快活的；鲜艳的；生动的、真实的
+        * She is as `lively` as a kitten.*可爱的*
+        * He gave a `lively` description of the football match.*生动的*
+
 
 ## 数词(numeral)(num.)
 
@@ -817,11 +923,418 @@ ten thousand它是万，hundred thousand是十万；百万就是million；十亿
 虚拟语气
 独立主格结构
 
+### 动词的分类
+
+1. 实义动词
+    * 含实在的意义
+    * 表动作或状态
+    * 在句中独立作谓语
+    * 除去助动词和情态动词
+        * They `eat` a lot of potatoes.
+        * I'm `reading` an English book now.
+2. 系动词
+    * 本身有一定的词义
+    * be动词(当译为是) & 感官动词
+        * His father `is` a teacher.
+        * Twins usually `look` the same.
+        * I `am` a student.*是，有词义*
+        * I `have` two brothers.*有*
+3. 助动词
+    * 本身没有词义(am is are没有词义则为助动词)，不能独立作谓语，只和主要动词一起构成谓语动词
+    * 帮助动词表否定、疑问、时态、语态
+    * 有人称、单复数和时态的变化
+        * He `doesn't` speak English.
+        * We `are` playing basketball.
+        * I `am` studying grammar.
+        * He `is` playing football.
+        * I `was` cheated.
+        * `Do` you like English?
+        * I `have` studied English for 3 years.
+4. 情态动词
+    * 本身有意义，不独立作谓语，和动词一起构成谓语动词
+    * 情态动词没有人称和单复数的变化，有些情态动词有过去式
+        * You `can` keep the books for two weeks.
+    * 主要有 `can(could)、may(might)、must、need、have to、ought to、dare(dared)、shall(should)、will(would)、had、better、be able to、have got to(must)`
+    * 后接动词原形
+    * 无人称和数的变化
+    * 有一定的词义，必须与动词原形一起构成谓语
+    * 情态动词+have+过去分词，可构成虚拟语气意为'本应该做某事却没做'
+        * She `should / ought to` have attended your birthday party , but she had to look after her mother in hospital.
+    * can 和 could 表推测，允许，能力
+        * Where can/could he have gone?*推测*
+        * Could I use your pen?————Yes,of course you can*允许*
+        * They can do it well.*能力*
+    * may 和 might 表示许可；祝愿；推测
+        * You may drive the car.*许可*
+        * May you succeed!*祝愿*
+        * He may be very busy now.*推测*
+    * must 表必须、必要
+        * I must give up smoking.*必须*
+    * should 表示义务、责任、劝告，建议 'should+have+过去分词'结构一般表示义务，表示应该做到而实际上没有做到
+        * You should go to class right away.*建议*
+        * You should have started earlier.*本该做但未做*
+    * will 和 would 表意志、愿望和决心；表请求、建议；would比will委婉客气
+        * Would you pass me the book?*请求*
+        * I will never do that again.*决心*
+        * They asked if we would do that again.*建议*
+        ---
+    * 情态动词表推测的三种时态
+        1. 对将来情况的推测，用情态动词+动词原形
+            * She must / may / might / could arrive before 5. 五点前她一定/可能/也许到
+            * She must / may / might / could walk miles among the hills without meeting anyone. 她一定/可能/也许会在山里一连走好几英里而遇不到一个人
+        2. 对现在或一般情况的推测，用'情态动词+be doing'或'情态动词+动词原形'
+            * He must / may / might / could `be listening` to the radio now. 他一定/可能/也许正在听收音机
+            * He can't (couldn't) / may(might) not be at home at this time. 这个时候他不可能/可能不在家
+        3. 对过去情况的推测，用'情态动词+have+过去分词'
+            * It must / may / might / could have rained last night.The ground is wet. 地湿了，昨晚肯定/可能/也许下雨了
+            * The door was locked.He can(could) not / may(might) not have been at home. 门锁着，他可能/可能不在家
+
+---
+
+### 动词词形变化
+
+原型 > 过去式 > 过去分词
+
+不规则词形变化
+
+|原型|过去式|过去分词|
+|:-------:|:-------:|:------:|
+|be(am,is)|was|been|
+|be(are)|were|been|
+|beat|beat|beaten|
+|lose|lost|lost|
+|madk|made|made|
+|put|put|put|
+
+规则动词过去式变化
+
+1. 动词词尾+ed
+    * worked played wanted acted
+2. 以不发音的 -e 结尾动词，动词词尾加 -d
+    * lived moved decided declined hoped judged raised wiped
+3. 以辅音字母 + y结尾的动词，把-y变为-i 再加-ed
+    * studied tried copied justified cried carried embodied emptied
+4. 以一个辅音字母结尾的重读闭音节动词，双写词尾辅音字母，再加 -ed
+    * stopped begged fretted dragged dropped planned dotted dripped
+5. 不规则动词的过去式变化规律性不强，须多加记忆
+    * go - went，make - made， get - got ，buy - bought ，come - came ，fly-flew ，is/am-was， are-were ，see-saw ，bring-brought，do-did，teach-taught, think-thought, are-were, say-said,sit-sat.
+
+现在分词（present participle），是分词的一种，分词又分为现在分词和过去分词，它们都是非限定动词，现在分词在句子里面不能单独 充当谓语，但能充当其它的一些成分。
+
+动词的过去分词是动词的一种非谓语形式，也叫非限定性动词。不能独立作谓语，只能与助动词一起构成谓语。如:“have/has/had +过去分词”构成完成时态;“be+过去分词”构成被动语态等。它相当于一个形容词或副词，在句中起一个形容词或副词的作用，可作表语、定语、补语等。它的作用与现在分词doing类似。过去分词表的意义是被动或完成。
+
+---
+
+### 动词的时态
+
+英文当中的时态是由时间状语来决定的
+
+||现在时|过去时|将来时|过去将来时|
+|:-------:|:-------:|:------:|:------:|:------:|
+|**一般**|ask/asks|asked|shall/will ask|should/would ask|
+|**进行**|am/is/are/asking|was/were/asking|shall/will be  asking|should/would be asking|
+|**完成**|have/has asked|had asked|shall/will have asked|should/would have asked|
+|**完成进行**|have / has been asking|had been asking|shall/will have been asking|should/would have been asking|
+
+---
+
+#### 六个基本时态
+
+1. 一般现在时
+    1. 经常或习惯发生的动作或状态
+        * They go to the Palace Museum `once a year`.
+        * They `often` discuss business in the evening.
+    2. 表示客观真理、事实、人的技能或现在的状态
+        * The earth `turns` round the sun.
+        * Light `travels` faster than sound.
+    3. 表十分确定会发生或按照时间表进行的事情
+        * The train for HaiKou `leaves` at 8:00 in the morning.
+    4. 时间状语从句和条件状语从句，一般现在时代替一般将来时
+        * Please ring me up `as soon as` you arrive in Germany.
+        * `If` it rains tomorrow , we will have to stay at home.
+2. 一般过去时
+    * 常见时间状语
+    * 表过去的动作或状态
+        * Little Tom broke the window `at half past nine this morning`.
+        * `When` he **went** into the room , **he** saw a stranger talking with his father.
+        * He **came to** our city `in the year 2000.`
+3. 一般将来时
+    * 时间状语
+    * 将来某一时刻动作或状态；打算或准备要做的事情；主观判断即将要发生的事情
+    1. will + 动词原形
+        * I will graduate from this school soon.
+    2. am/is/are going to + 动词原形
+        * It's going to rain soon.
+    3. am/is/are to + 动词原形
+        * I am to graduate from this school soon.
+    4. be about to + 动词原形
+        * I am about to graduate from this school soon.
+4. 现在进行时
+    * 表示动作正在发生
+    1. be(am/is/are) + 现在分词(动词后+ing)
+        * I am writing a long novel.*am助动词*
+    2. 表即将发生的动作，一般指近期安排好的事情
+        * What are you doing tomorrow?
+    3. 表频繁发生或反复进行的动作，常与always等频率副词连用，以表示赞扬、不满或讨厌等感情色彩
+        * He `is always borrowing` money from me and `forgetting` all about it some time later.
+5. 过去进行时
+    1. was 或 were + 现在分词(动词后+ing)
+    * 时间状语
+    * 用于宾语从句或时间状语从句中，表示与主句动作同时进行且是延续时间较长
+        * He `was cooking` supper this time yesterday.
+        * The little girl `was playing` with her toy when i saw her.
+        * She saw it happen when she `was walking` past.
+        * They sang a lot of songs while they `were walking` in the dark forest.
+6. 现在完成时
+    1. 表在过去开始一直延续到现在的动作或状态 'have(has) + done'
+    * 时间状语(短语/句子)
+    * 状语从句
+        * I `have never seen` such fine pictures before.
+        * He `has just gone` to England.
+        * I `have been` away from my hometown for thirty years.
+        * Uncle Wang `has worked` in the factory since it opened.
+
+* 在完成时中，一个瞬间性动词(一次性动作)不能与表示一段时间的状语连用，此时须将该瞬间动词改为延续性动词或状态动词
+
+|瞬间性动词的完成时|延续性动词或状态动词的完成时|
+|:-------:|:-------:|
+|Have (already) gone to|Have been in / at …… for(two years)|
+|Has come to|Has been here since(1990)|
+
+---
+
 ## 副词(adverbial)(adv.)
 
-修饰动词、形容词；说明时间、地点、程度
+修饰动词、形容词；说明事情发生的时间、地点、原因、方式等含义
 
-副词充当状语
+说明其他形容词或副词程度的词叫副词，副词充当状语
+
+### 副词的分类
+
+1. 时间副词
+    * `today tomorrow yesterday now soon不久 then那时 recently近来 lately近来 afterwards后来`
+    * 时间副词用在句尾
+        * I went to the bar `yesterday`.
+    * 时间副词用在句首以加强语气
+        * `Tomorrow` i shall attend a meeting.
+    * 句中若出现多个时间副词，短时间在前，长时间在后
+        * It took place at `4 o'clock on the 4th of May, 1896`.
+    * 表示时间的副词或副词短语前不加介词或定冠词
+        * He will be back `on` next Monday. (错)
+        * He will be back `the` next Monday. (错)
+        * He will be back **next Monday**. (对)
+2. 频率副词
+    * `always总是 usually通常 frequently经常 often经常 sometimes有时 seldom不常 rarely极少 never从不 once一次 twice两次`
+        * all the time 100%
+        * almost , always 90%
+        * generally , usually 80%
+        * often , frequently 60-70%
+        * as often as not 40-50%
+        * sometimes , at times 20-30%
+        * occasionally , from time to time 10%
+        * hardly seldom , rarely 5%
+        * never 0%
+3. 地点副词
+    * `here there home upstairs downstairs anywhere everywhere nowhere somewhere abroad elsewhere`
+4. 疑问副词
+    * `how when where why`
+5. 程度副词
+    * `much little very rather相当 so too still quite perfectly完美的`
+6. 方式副词
+    * `carefully properly适当的 anxiously焦虑的 suddenly normally正常的 fast well calmly冷静的 politely有礼貌的 proudly自豪的`
+7. 连接副词
+    * `therefore因此 moreover此外 however另外的 otherwise then when where how why`
+8. 关系副词
+    * `when where why`
+
+---
+
+### 副词的易混词辨析
+
+1. too also either nor '也'
+    * `too` 肯定句和疑问句的末尾，用逗号隔开
+        * Are you American, `too`?
+    * `also` 肯定句句子谓语动词之前
+        * You can `also` find the market is very good.
+    * `nor` 否定句，句首
+        * He didn't watch the football game. `Nor` did i.
+2. sometimes、sometime、some times、some time
+    * `sometimes` 有时，用于一般现在时
+        * `Sometimes` they go hiking in the mountains.*有时*
+    * `sometime` 将来的某时
+        * I will meet your father `sometimes`.*未来的某时间*
+    * `some times` 数次
+    * `some time` 一些时间
+        * I will stay here `some times`.*一些时间*
+3. farther further
+    * 表地点、方向或距离时同义 '更远、较远'
+        * They decided to go `farther/further` the next day.*具体*
+    * further 还表 '更多、进一步、额外'等意思
+        * further education
+        * This problem will be `further` discussed.*抽象*
+        * Every one of them had their `further` studies after they left cooege.*抽象*
+4. most mostly
+    * most
+        * 形容词名词：'大多数，大部分的'
+            * I was at home `most` of the time when i was free.
+        * 副词：'最，十，很'
+            * This is the `most` exciting part of the film.
+    * mostly 副词：'主要的，多半的，大部分的'
+
+---
+
+
+
+### 副词、形容词的原级，比较级和最高级
+
+1. 规则变化
+    1. **单音节**和**部分双音节** 形容词和副词，在原级的后面加上 `er/est`构成比较级/最高级
+    2. **两个音节**或**两个以上的音节**的 在原级前加`more most`
+    3. 以`e`结尾的单音节词，比较在原级后加 `-r` 最高级在原级后加 `-st`
+        * large > larger > largest
+    4. 以辅音字母+`y` 结尾的词，变`y`为`i`，再加`-er/-est`
+        * happy > happier > happiest
+        * easy > easier > easiest
+        * heavy > heavier > heaviest
+        * busy > busier > busiest
+    5. 元音+辅音，先双写末尾的辅音字母，比较级加`-er`,最高级加`-est`
+        * big > bigger > biggest
+        * hot > hotter > hottest
+        * fat > fatter > fattest
+
+---
+
+2. 不规则变化
+
+|原级|比较级|最高级|
+|:-------:|:-------:|:------:|
+|good 好的|better 更好的|best 最好的|
+|bad 糟糕的|worse 更糟糕的|worst 最糟糕的|
+|little 少的|less 更少的|least 最少的|
+
+---
+
+3. 不具有等级的形容词
+
+`absolute alone dead empty equal eternal final perfect pregnant怀孕的 round single unique独一无二的`
+
+* nearly perfect 接近完美的
+* almost fatal 几乎致命的
+* nearly dead 奄奄一息的
+
+4. 比较级的用法
+    1. than的比较级句型
+        * than前面必须有形容词或副词的比较级形式
+        * 被比较的两个对象应该是同类事物，即'前后事物具有可比性'
+            * This question is **less important** `than` that question.*否定句，不重要*
+            * The *climate* in Shenyang is **much colder** `than` other cities.*错误句，天气与城市没有可比性*
+            * The climate in Shenyang is **much colder** `than` other `cities'`.*天气与天气比*
+    2. 比较级前加the
+        * 比较级的前面一般都是不加the，但是在介词短语 of the two出现的比较级句中的时候，比较级的前面必须加the
+            * I think this painting is **the** `more interesting` **of the two**
+            * I think this painting is `more interesting` than that one.*没of the two*
+    3. 可以修饰比较级的词
+        `a bit、a little bit、a little、a lot、a great deal、any、even、far、by far、much、very much、no、rather、still、slightly`
+        * Are you feeling `any` better?*更好一些*
+        * Things are `no` better than before.*并没有好很多*
+        * He makes `far` fewer mistakes in spellings than before.*少了很多*
+    4. 否定意义的单词+比较级表示最高级
+        * It **couldn't** be `worse`.*不能更糟糕了=最糟糕*
+        * **Few** are `better qualified` for the job than he is.
+        *没人更适合=最适合*
+        * I have **never** heard a `better` song.*从未听过这么好的=最好的*
+5. 最高级的用法
+    1. the + 最高级 + in + 地方
+        * It is `the most` expensive car `in` the `world`.*在is后充当表语*
+        * `The best` woman `in` the `world` is my mother.*在be动名词is之前，充当主语*
+        * `The most` beautiful sound `in` the `world` is my mother's voice.*同样是主语*
+    2. most 用于形容词之前，并非表示最高级，而是表示'十分，非常，很'之意，相当于 very , very much . 此时most前面不加the
+        * The story is `most` interesting.*特别有意思*
+        * It is a `most` difficult problem.*特别难的*
+            * It is the most difficult problem.*此时是最难的*
+    3. the + 最高级 + of + 所属范围
+        * `The` `youngest` member `of` the `family` is most successful. 全家中最年轻的成员是非常有成就的
+        * Gold is `the` `least` useful `of` all `metal`. 黄金是所有金属中用途最少的
+    4. the + 序数词 + 最高级 + In + 地方
+        * The Yangtze River is the longest river in China, but it is `the` `third` `longest` river `in` the `world`.
+        * The Huanghe River is `the` `second` `longest` river `in` `China`.
+
+---
+
+### 副词、形容词固定句型
+
+1. 同级(原级)比较
+    * `as……as(当句子中含有形容词和副词) , the same as(当没有形容词和副词)` 与……一样
+        * She has written `sa many essays as` her brother(has).
+    * `no more……than , not……any , more than` 和……一样不(A不B不……)
+        * The heart is `no more intelligent than` the stomach , for they are both controlled by the brain.
+2. more and more 越来越……
+    * As the internet becomes `more and more` commercialized, it is in the interest of business to universalize access - after all, `the more` people online , `the more` potential customers there are.
+3. 表最高程度
+    1. 否定词+more 十分，非常
+        * I can't agree with you more.
+    2. no+名词+more……than 没有什么比……更，莫过于
+        * `No` `tool is` `more` powerful for understanding the natural world `than` the scientific method.
+    3. more……than+ `anyone/anything` else 比其他任何……都……，最……，没有比……更……
+    4. nothing as……as / nothing like 最；没有比……更……
+        * `Nothing` in the present-day world is `so` popular `as` internet.*否定句可以将as……as改为so……as*
+    5. the only+名词 最好的；独一无二的
+        * He is `the only` man for this study.
+4. 表倍数
+    1. 倍数+as+形容词或副词+as
+        * An ordinary subway train , approaching the station , can be `twice as loud as` the loudest jet.
+    2. 倍数+名词+of
+        * The bridge is `three times the length of` that one.
+    3. 倍数+比较级+than
+        * This hole is `three times deeper than` that one.
+5. (just)as…… , so '正如……所以……' so后面的句子多用倒装结构
+    * `Just as` the siol is a part of the earth , `so` is the atmosphere
+6. not……so much as…… 与其说A不如说B 或 是A而不是B
+    * Science moves forward , they say , `not so much` through the insights of great men of genius `as` because of more ordinary things like improved techniques and tools.
+7. more than
+    * more than + 动词或名词 ‘不仅是，不止是’
+        * They may teach very well , and `more than earn their salaries` , but most of them make little or no independent reflection on human problems which involve moral judgment.
+        * Because of its intimacy , radio is usually `more than` just a medium it is a companion.
+    * more than + 数字 '多于……'
+        * The role of natural selection in evolution was formulated only a little `more than` 100 years ago , and the selective role of environment in shaping and maintaining the individual is only beginning to be recognized and studied.
+    * more than + 形容词 '非常' = very
+        * The USA remains `more than` capable of holding lraq down , while confronting  North Korea and Iran - its next main targets.
+8. nothing more than 只不过是
+    * The individual TV viewer invariably senses that he or she is `nothing more than` an anonymous , statistically insignificant part of a huge and diverse audience.
+9. no less than / nothing less than 不亚于……，相当于
+    * This alone demonstrates that the television business is not an easy world to survive in , a fact underlined by statisitics that show that out of eighty European television networks , `no less than` 50% took a loss in 1989.
+10. more than……can 简直不能
+    * The beauty of the place is `more than i can` describe.
+    * The problem of the environmental protection is `more than `people `can` resolve.
+11. the+比较级……,the+比较级…… 越……，越
+    * `The more` trees we plant , `the better` it will be.
+    * `The harder` you try , `the greater` your progress is.
+12. one of the+最高级+名词(复数) 最……之一，谓语用单数形式
+    * `One of the oldest houses` has been burnt in a fire.
+
+---
+
+易混结构
+
+1. no more than 与 not more than
+    * no more than 仅仅，只有
+        * She has `no more than` three books.
+    * not more than 不超过，不多于
+        * She has `not more than` three books.
+2. no more……than 与 not more……than
+    * no more……than 既不……也不 = neither……nor
+        * He is `no more` a musician `than` a painter.
+    * not more……than 不如，不及 = not as……as
+        * She is `not more` diligent `than` he is.
+3. no less than , no less……than , not less……than
+    * no less than 多达
+        * We ran `no less than` three miles.
+    * no less……than 和……一样
+        * He is `no less` clever `than` you.
+    * not less……than 不少于
+        * He has `not less than` seven cars.
+
+---
 
 ## 冠词(article)(art.)
 

@@ -1440,3 +1440,7 @@ int arrTotal(int a[][2] , int n)
 
 ```
 
+---
+
+指针与字符串
+
