@@ -1019,9 +1019,9 @@ ten thousand它是万，hundred thousand是十万；百万就是million；十亿
 5. 不规则动词的过去式变化规律性不强，须多加记忆
     * go - went，make - made， get - got ，buy - bought ，come - came ，fly-flew ，is/am-was， are-were ，see-saw ，bring-brought，do-did，teach-taught, think-thought, are-were, say-said,sit-sat.
 
-现在分词（present participle），是分词的一种，分词又分为现在分词和过去分词，它们都是非限定动词，现在分词在句子里面不能单独 充当谓语，但能充当其它的一些成分。
+现在分词（present participle），是分词的一种，分词又分为现在分词和过去分词，它们都是非限定动词，现在分词在句子里面不能单独 充当谓语，但能充当其它的一些成分。(doing)
 
-动词的过去分词是动词的一种非谓语形式，也叫非限定性动词。不能独立作谓语，只能与助动词一起构成谓语。如:“have/has/had +过去分词”构成完成时态;“be+过去分词”构成被动语态等。它相当于一个形容词或副词，在句中起一个形容词或副词的作用，可作表语、定语、补语等。它的作用与现在分词doing类似。过去分词表的意义是被动或完成。
+动词的过去分词是动词的一种非谓语形式，也叫非限定性动词。不能独立作谓语，只能与助动词一起构成谓语。如:“have/has/had +过去分词”构成完成时态;“be+过去分词”构成被动语态等。它相当于一个形容词或副词，在句中起一个形容词或副词的作用，可作表语、定语、补语等。它的作用与现在分词doing类似。过去分词表的意义是被动或完成。(been)
 
 ---
 
@@ -1032,7 +1032,7 @@ ten thousand它是万，hundred thousand是十万；百万就是million；十亿
 ||现在时|过去时|将来时|过去将来时|
 |:-------:|:-------:|:------:|:------:|:------:|
 |**一般**|ask/asks|asked|shall/will ask|should/would ask|
-|**进行**|am/is/are/asking|was/were/asking|shall/will be  asking|should/would be asking|
+|**进行**|am/is/are asking|was/were asking|shall/will be  asking|should/would be asking|
 |**完成**|have/has asked|had asked|shall/will have asked|should/would have asked|
 |**完成进行**|have / has been asking|had been asking|shall/will have been asking|should/would have been asking|
 
@@ -1102,6 +1102,131 @@ ten thousand它是万，hundred thousand是十万；百万就是million；十亿
 |Has come to|Has been here since(1990)|
 
 ---
+
+#### 十个高级时态
+
+7. 过去完成时 *最过去的时态*
+    * 表示的时间是'过去的过去'；助动词had+动词的过去分词
+    * 时间状语
+    * 常用于宾语从句，after/before 引导的从句中
+        * They `had already finished` cleaning the classroom when their teacher came.
+        * The woman `had left` before he realized she was a cheat.
+        * After I `had put` on my shoes and hat , i walked into the darkness.
+        * He said that he `had never seen` a kangaroo before.
+8. 过去将来时 *过去+将来 did+will > would*
+    * should 或 would 动词原形
+    * 在时间状语从句和条件状语从句中不用过去将来时
+    * 表打算或主观认为的用 `was/were going to (+动词原形)`
+        * He **promised** that he `would pay` me a lot if i helped him tie the project.
+        * Every time when he **was** free , he `would sit down and read` some books.
+        * She **told** me she `would` be 18 the next month.
+        * She **told** me that she `was going to` have a walk with her pet dog.
+9. 现在完成进行时
+    * 指一个从过去就开始一直持续到现在并有可能继续下去的动作，他具有现在完成时和现在进行时双重特征
+    * `have/has + been + doing`
+        * I `have been swimming` in the cold water for about two hours.
+        * How long `have you been waiting` here?
+10. 将来进行时 *将来+进行*
+    * 将来某一时间正在进行的动作，或表示要将在某一时间开始，并继续下去的动作
+    * `shall/will + be + 现在分词(doing)`*第一人称可以用shall*
+        * Please don't call me  between 8:00 and 10:00 tomorrow. `I'll be having` my classes then.
+    1. 特殊用法
+        1. 表示预定的将来动作或对将来的预测
+            * After you take the medicine , you `will be feeling` much better. *对将来的预测，将会好很多*
+        2. 表示委婉的请求
+            * When `shall` **we** `be meeting` again?
+11. 过去将来进行时 *过去+将来+进行 did+will+be doing > would+be+doing*
+    * 表示在过去某一时间之后即将进行的动作
+    * `should(would) + be + 现在分词(doing)`
+        * He **said** that he could not come because he `would be having` a meeting.
+    * 过去将来进行时主要用于宾语从句中，尤其多用于间接引语
+        * They **said** they `would be coming`.
+12. 将来完成时 *将来+完成 will+have done > will have+done*
+    * 表示在将来某一时间之前已完成的动作，并往往对将来某一时间产生影响
+    * `shall/will have + done`
+        * We `shall(will) have learned` 12 units by the end of this term.
+        * By the time you get home , I `will have cleaned` the house from top to bottom.
+    * 表示推测，相当于 'must have done'
+        * You `will have heard` of this , I guess.
+        * I am sure that `he will have got` the information.
+13. 过去将来完成时 *过去+将来+完成 did+will+have done*
+    * 表示从过去某一时间来看，将来某时会已经完成的动作,`would have gone`**多出现在虚拟语气**
+        * He knew by the time he arrived she `would have gone` home.
+14. 过去完成进行时 *过去+完成+进行*
+    * 表动作在过去某一时间之前开始，一直延续到这一过去时间
+    * `had been doing`
+        * They `had been waiting` for the bus a few moments when it came.
+15. 将来完成进行时 *将来+完成+进行*
+    * 表示动作从将来的某一时间开始一直延续到将来某一时间
+    * `shall/will have been doing`
+        * I `shall have been working` here in this factory for twenty years by the end of the year.
+        * The play is coming off in August. By then the play `will have been running` for three months.
+16. 过去将来完成进行时 *过去+将来+完成+进行*
+    * 表动作从过去某一时间开始一直延续到过去将来某一时间
+    * `would/should have been + 现在分词(doing)`
+        * I heard by July `you'd have been teaching` here for ten years.
+        * He said that by the end of the spring term he `would have been studying` English for three years.
+        * I knew by that time he `would have been working` there for 30 years.
+
+---
+
+### 动词的语态
+
+定义
+
+1. 主语是动作的执行者(某人做某事)，叫主动语态
+2. 主语是动作的承受着(某事被做)，叫被动语态
+
+---
+
+构成
+
+1. 助动词be+动词的过去分词(done)
+2. 助动词be有时态、人称和数的变化
+3. 被动语态后的by短语有时可省去
+
+---
+
+被动语态用法
+
+1. 不知道谁是动作的执行者时用被动语态
+    * A man `was killed` in the accident.
+    * This window `was broken` yesterday.
+2. 强调动作的承受者
+    * Rice `is also grown` in this place.
+    * A railroad `will be built` here in three years.
+3. 众所周知的事实
+    * It `was written` by Lu Xun.
+    * A pet dog `is never killed` by its owner.
+    ---
+
+改法
+
+* 将主动语态的**宾语**改为被动语态的**主语**
+* 将主动语态的谓语动词改为`be + 过去分词`结构
+* 将主动语态的**主语**改为介词 by 之后的**宾语**，放在谓语动词之后(有时可省略)
+
+---
+
+注意
+
+1. 双宾的被动语态
+    * 把 间接宾语 改为被动语态的主语，直接宾语 仍保留原位
+    * 把 直接宾语 改为主动语态的主语，直接宾语 前要加 介词to或for
+        * His teacher gave **him** a **dictionary**.
+            * `He` was given a dictionary by his teacher.
+            * `A dictionary` was given to him by his teacher.
+2. 不带to的动词不定式作宾语补足语的主动语态，改为被动语态时，不定式前要加to
+    * The boss made the poor man work 12 hours a day.
+    * → The poor man was made to work 12 hours a day.
+3. 短语动词谓语，改为被动语态时要保持其完整性，介词或副词不可遗漏
+    * The girl takes good care of her little brother.
+    * → The girl's little brother si taken good care of by her.
+4. 宾补 一般把主动语态的宾语改为主语，宾语补足语在被动语态中做主语补足语
+    * 双宾=两个都是动作的对象；宾+宾补=对宾语的补充说明
+    * I paint the **house** *white*.
+    * → The house is painted white by me.
+
 
 ## 副词(adverbial)(adv.)
 
