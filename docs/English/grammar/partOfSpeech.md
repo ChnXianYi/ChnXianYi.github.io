@@ -664,7 +664,6 @@ who、whoe、whose、what、which、whoever、whatever、whichever 主要用于�
         * She is as `lively` as a kitten.*可爱的*
         * He gave a `lively` description of the football match.*生动的*
 
-
 ## 数词(numeral)(num.)
 
 数目或顺序
@@ -1227,8 +1226,7 @@ ten thousand它是万，hundred thousand是十万；百万就是million；十亿
     * I paint the **house** *white*.
     * → The house is painted white by me.
 
-
-## 副词(adverbial)(adv.)
+## 副词(adverbial)*adv*
 
 修饰动词、形容词；说明事情发生的时间、地点、原因、方式等含义
 
@@ -1307,8 +1305,6 @@ ten thousand它是万，hundred thousand是十万；百万就是million；十亿
     * mostly 副词：'主要的，多半的，大部分的'
 
 ---
-
-
 
 ### 副词、形容词的原级，比较级和最高级
 
