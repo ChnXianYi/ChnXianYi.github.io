@@ -68,7 +68,7 @@
 1. composition
 2. anger
 3. natural
-4. reaction
+4. reaction 反应
 5. impression
 6. bargain
 7. trade
@@ -77,16 +77,16 @@
 10. make
 11. understand
 12. statement
-13. declaration
+13. **declaration 公告**
 14. emergence
 15. ceremony
 16. took
 17. charge
 18. advantage
-19. trivial
+19. **trivial 琐碎的**
 20. daytime
 21. passion
-22. conclusion
+22. **conclusion 结论**
 23. cage
 24. glory
 25. shelf
@@ -98,16 +98,65 @@
 31. along
 32. famous
 33. wide
-34. facility
+34. **facility 设施**
 35. amount
 36. fuss
 37. pilot
 38. nurse
 39. result
 40. cause
-41. destroy
+41. destroy 毁坏损害
 42. harm
 43. hurt
+
+---
+
+1. information
+2. block
+3. bunch
+4. smashed
+5. injury
+6. editor
+7. sign
+8. signal
+9. guarantee
+10. article
+11. playground
+12. machine
+13. anxiety
+14. appearance
+15. expression
+16. context
+17. contest
+18. selectivity
+19. store
+20. **convention 约定俗成**
+21. huntsman
+22. deer
+23. gaze
+24. glare
+25. glimpse
+26. stare
+27. reality
+28. **division 分歧**
+29. climate
+30. agriculture
+31. effect
+32. affect
+33. spot
+34. accent
+35. frankly
+36. promise
+37. annoy
+38. **pattern 典范、模板**
+39. topic
+40. **extension 拓展**
+
+---
+
+1. mixture
+2. worry
+
 
 ---
 
@@ -123,6 +172,8 @@
 * a wide range of   各种各样的
 * a large mount of 大量(修饰不可数名词)
 * score a goal 进了个球
+* could only 只有
+* open up 打开
 
 ---
 
