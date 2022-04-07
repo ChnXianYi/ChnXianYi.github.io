@@ -54,3 +54,13 @@ Regular Expression - 一种文本模式。旨在使用单个字符串来描述�
 * 替换语句为`/<div class="illus duokan-image-single"><img alt="\1" /></div>/`
 
 ---
+
+### vscode 搜索和替换
+
+需要将由 ^^ 字符括起来的文字转换为`<small class="pass">` 以达到效果
+
+查找语句为 `\^(.*)\^`
+
+替换语句为 `<small class="pass">$1</small>`
+
+---
