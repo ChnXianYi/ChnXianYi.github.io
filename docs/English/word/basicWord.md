@@ -154,9 +154,51 @@
 
 ---
 
-1. mixture
-2. worry
+1. mixture<small class="pass">混合物</small>
+2. worry<small class="pass">担心</small>
+3. commitment<small class="pass">承诺、诺言、奉献</small>
+4. commit<small class="pass">承诺</small>
+5. achievement<small class="pass">成绩、成就</small>
+6. assessment<small class="pass">评估</small>
+7. effective<small class="pass">有效的</small>
+8. trust<small class="pass">信任</small>
+9. stress<small class="pass">压力</small>
+10. prevent<small class="pass">预防、避免</small>
+11. limitation<small class="pass">限制、限定、局限</small>
+12. freedom<small class="pass">自由</small>
+13. parliament<small class="pass">议会</small>
+14. yet<small class="pass">还</small>
+15. begin<small class="pass">开始</small>
+16. deal<small class="pass">交易、协定</small>
+17. crash<small class="pass">撞、崩溃</small>
+18. crisis<small class="pass">危机</small>
+19. threat<small class="pass">恐吓</small>
+20. flaw<small class="pass">瑕疵</small>
+21. way<small class="pass">路、方法</small>
+22. appointment<small class="pass">预定、约定</small>
+23. fewer<small class="pass">较少的</small>
+24. circumstance<small class="pass">情况、情势</small>
+25. traffic<small class="pass">车流量</small>
+26. shortage<small class="pass">缺乏、不足</small>
+27. renewable<small class="pass">可再生的</small>
+28. worsen<small class="pass">恶化</small>
+29. current<small class="pass">流(电、水、汽)、现在的</small>
+30. root<small class="pass">根茎</small>
+31. ambiguity<small class="pass">模棱两可的</small>
+32. source<small class="pass">来源、起源</small>
+33. peaceful<small class="pass">和平的、平静的</small>
+34. violence<small class="pass">暴力行为</small>
+35. judgment<small class="pass">判断力、审判、裁决</small>
+36. street<small class="pass">街道</small>
+37. election<small class="pass">选举</small>
+38. candidate<small class="pass">候选人</small>
+39. inspire<small class="pass">鼓舞、激励</small>
+40. compensation<small class="pass">赔偿(所获)</small>
 
+---
+
+1. battle
+2. campaign
 
 ---
 
@@ -174,6 +216,14 @@
 * score a goal 进了个球
 * could only 只有
 * open up 打开
+* No pain , no gain 没有付出就没有收获
+* take a holiday 去度假
+* deal with 处理
+* find fault with 挑剔；指责
+* take effect 生效
+* take office 上台执政
+* under no circumstances 绝不；在任何情况下不
+* as far as i knew 据我所知
 
 ---
 
@@ -181,3 +231,6 @@
 
 * The population of our city is about three times as large as that of theirs.
 * I'm afraid that you have no choice but to come along with us at present.
+* Parliament has not yet begun to deal with the latest economic crisis.
+* My mom is always finding fault with the way I do my hair.
+* In the election campaign , candidates have to make a lot of inspiring speeches to win votes. *在竞选活动中，候选人必须做许多鼓舞人心的演讲才能赢得选票。*
