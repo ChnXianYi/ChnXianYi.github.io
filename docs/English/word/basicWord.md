@@ -158,7 +158,7 @@
 2. worry<small class="pass">担心</small>
 3. commitment<small class="pass">承诺、诺言、奉献</small>
 4. commit<small class="pass">承诺</small>
-5. achievement<small class="pass">成绩、成就</small>
+5. **achievement**<small class="pass">成绩、成就</small>
 6. assessment<small class="pass">评估</small>
 7. effective<small class="pass">有效的</small>
 8. trust<small class="pass">信任</small>
@@ -166,7 +166,7 @@
 10. prevent<small class="pass">预防、避免</small>
 11. limitation<small class="pass">限制、限定、局限</small>
 12. freedom<small class="pass">自由</small>
-13. parliament<small class="pass">议会</small>
+13. **parliament**<small class="pass">议会</small>
 14. yet<small class="pass">还</small>
 15. begin<small class="pass">开始</small>
 16. deal<small class="pass">交易、协定</small>
@@ -177,7 +177,7 @@
 21. way<small class="pass">路、方法</small>
 22. appointment<small class="pass">预定、约定</small>
 23. fewer<small class="pass">较少的</small>
-24. circumstance<small class="pass">情况、情势</small>
+24. **circumstance**<small class="pass">情况、情势</small>
 25. traffic<small class="pass">车流量</small>
 26. shortage<small class="pass">缺乏、不足</small>
 27. renewable<small class="pass">可再生的</small>
@@ -197,8 +197,45 @@
 
 ---
 
-1. battle
-2. campaign
+1. battle<small class="pass">战争、争论</small>
+2. **campaign**<small class="pass">战役、运动</small>
+3. computation<small class="pass">计算</small>
+4. thinking<small class="pass">思维</small>
+5. react<small class="pass">回答</small>
+6. exit<small class="pass">出口</small>
+7. interact<small class="pass">相互影响</small>
+8. twig<small class="pass">枝条</small>
+9. bench<small class="pass">长凳</small>
+10. quality<small class="pass">质量、优质的</small>
+11. identity<small class="pass">身份</small>
+12. equality<small class="pass">平等</small>
+13. **adaptable**<small class="pass">能适应的、适合的</small>
+14. spy<small class="pass">间谍</small>
+15. finally<small class="pass">最后</small>
+16. expansion<small class="pass">膨胀、拓展</small>
+17. response<small class="pass">反应、回答</small>
+18. **concept**<small class="pass">观念、概念</small>
+19. emission<small class="pass">扩散、发射</small>
+20. poet<small class="pass">诗人</small>
+21. memory<small class="pass">记忆</small>
+22. component<small class="pass">组件、零件</small>
+23. combination<small class="pass">组合</small>
+24. inspiration<small class="pass">灵感</small>
+25. reference<small class="pass">参考</small>
+26. break<small class="pass">破碎、休息</small>
+27. postponed<small class="pass">延期</small>
+28. variety<small class="pass">多样性</small>
+29. evidence<small class="pass">证据</small>
+30. **evaluation**<small class="pass">评估</small>
+31. evil<small class="pass">邪恶的</small>
+32. misery<small class="pass">痛苦</small>
+33. **proposal**<small class="pass">提议</small>
+34. **arouse**<small class="pass">引起、唤起</small>
+35. **opposition**<small class="pass">反对、反抗</small>
+36. publication<small class="pass">出版</small>
+37. **intention**<small class="pass">意图</small>
+38. extraction<small class="pass">提取、拔牙</small>
+39. **extent**<small class="pass">范围、程度</small>
 
 ---
 
@@ -224,6 +261,9 @@
 * take office 上台执政
 * under no circumstances 绝不；在任何情况下不
 * as far as i knew 据我所知
+* on account of 由于、因为
+* the former 两者中的前者
+* the latter 两者中的后者
 
 ---
 
@@ -234,3 +274,4 @@
 * Parliament has not yet begun to deal with the latest economic crisis.
 * My mom is always finding fault with the way I do my hair.
 * In the election campaign , candidates have to make a lot of inspiring speeches to win votes. *在竞选活动中，候选人必须做许多鼓舞人心的演讲才能赢得选票。*
+* The proposal of increasing working hours aroused the opposition of teachers. *增加工作时间的提议引起了老师们的反对*
