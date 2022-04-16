@@ -3,5 +3,7 @@
   * [fishC](Language/C/fishC/basic) -->
   * [C数据类型](Language/C/dataType)
   * [类型转换与运算符](Language/C/运算符)
+  * [字符](Language/C/string)
+  * [Function](Language/C/function)
   * [C100题](Language/C/100case)
   
