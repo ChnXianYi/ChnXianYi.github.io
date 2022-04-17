@@ -106,3 +106,7 @@ int main()
 * ~`scanf("%8.2f" , &c)`~
 
 ---
+
+### fflush()
+
+### exit()
