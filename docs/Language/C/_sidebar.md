@@ -5,6 +5,7 @@
   * [类型转换与运算符](Language/C/运算符)
   * [条件语句](Language/C/条件语句)
   * [字符](Language/C/string)
+  * [数组](Language/C/array)
   * [Function](Language/C/function)
   * [C100题](Language/C/100case)
   
