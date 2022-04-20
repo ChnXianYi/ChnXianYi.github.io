@@ -4,7 +4,7 @@
 
 C语言是目前执行效率最高的高级语言
 
-![alt:'TIOBE'](https://segmentfault.com/img/bVcVgtT/view)
+![alt:'TIOBE'](https://image-static.segmentfault.com/249/200/2492003619-615fbe2b49f62)
 
 * Python: Web应用开发、自动化脚本、网络爬虫、人工智能
 * C：系统、应用软件开发
